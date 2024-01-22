@@ -2,6 +2,8 @@ import pandas as pd
 import os
 import subprocess
 
+# The tables needed from PxStat along with the relevant columns.
+
 pxstat_codes_dict = {'naq04': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
                      'nqi01': ['Statistic Label', 'Quarter', 'Sectors', 'VALUE'],
                      'gfq10': ['Statistic Label', 'Quarter', 'State', 'VALUE'],
