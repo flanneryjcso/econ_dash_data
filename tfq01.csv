@@ -1,0 +1,697 @@
+,Statistic,Quarter,Business.of.Owner,value
+0,Tonne-Kilometre,2009Q1,All business activities,3519
+1,Tonne-Kilometre,2009Q1,Transport,2116
+2,Tonne-Kilometre,2009Q1,Other,1403
+3,Tonne-Kilometre,2009Q2,All business activities,2900
+4,Tonne-Kilometre,2009Q2,Transport,1785
+5,Tonne-Kilometre,2009Q2,Other,1114
+6,Tonne-Kilometre,2009Q3,All business activities,2666
+7,Tonne-Kilometre,2009Q3,Transport,1510
+8,Tonne-Kilometre,2009Q3,Other,1156
+9,Tonne-Kilometre,2009Q4,All business activities,2985
+10,Tonne-Kilometre,2009Q4,Transport,1853
+11,Tonne-Kilometre,2009Q4,Other,1132
+12,Tonne-Kilometre,2010Q1,All business activities,2705
+13,Tonne-Kilometre,2010Q1,Transport,1613
+14,Tonne-Kilometre,2010Q1,Other,1091
+15,Tonne-Kilometre,2010Q2,All business activities,3006
+16,Tonne-Kilometre,2010Q2,Transport,1814
+17,Tonne-Kilometre,2010Q2,Other,1192
+18,Tonne-Kilometre,2010Q3,All business activities,2727
+19,Tonne-Kilometre,2010Q3,Transport,1722
+20,Tonne-Kilometre,2010Q3,Other,1004
+21,Tonne-Kilometre,2010Q4,All business activities,2487
+22,Tonne-Kilometre,2010Q4,Transport,1591
+23,Tonne-Kilometre,2010Q4,Other,896
+24,Tonne-Kilometre,2011Q1,All business activities,2589
+25,Tonne-Kilometre,2011Q1,Transport,1722
+26,Tonne-Kilometre,2011Q1,Other,867
+27,Tonne-Kilometre,2011Q2,All business activities,2620
+28,Tonne-Kilometre,2011Q2,Transport,1691
+29,Tonne-Kilometre,2011Q2,Other,929
+30,Tonne-Kilometre,2011Q3,All business activities,2572
+31,Tonne-Kilometre,2011Q3,Transport,1809
+32,Tonne-Kilometre,2011Q3,Other,763
+33,Tonne-Kilometre,2011Q4,All business activities,2160
+34,Tonne-Kilometre,2011Q4,Transport,1391
+35,Tonne-Kilometre,2011Q4,Other,769
+36,Tonne-Kilometre,2012Q1,All business activities,2627
+37,Tonne-Kilometre,2012Q1,Transport,1850
+38,Tonne-Kilometre,2012Q1,Other,776
+39,Tonne-Kilometre,2012Q2,All business activities,2571
+40,Tonne-Kilometre,2012Q2,Transport,1796
+41,Tonne-Kilometre,2012Q2,Other,775
+42,Tonne-Kilometre,2012Q3,All business activities,2480
+43,Tonne-Kilometre,2012Q3,Transport,1718
+44,Tonne-Kilometre,2012Q3,Other,762
+45,Tonne-Kilometre,2012Q4,All business activities,2218
+46,Tonne-Kilometre,2012Q4,Transport,1498
+47,Tonne-Kilometre,2012Q4,Other,720
+48,Tonne-Kilometre,2013Q1,All business activities,2293
+49,Tonne-Kilometre,2013Q1,Transport,1618
+50,Tonne-Kilometre,2013Q1,Other,675
+51,Tonne-Kilometre,2013Q2,All business activities,2552
+52,Tonne-Kilometre,2013Q2,Transport,1710
+53,Tonne-Kilometre,2013Q2,Other,843
+54,Tonne-Kilometre,2013Q3,All business activities,2342
+55,Tonne-Kilometre,2013Q3,Transport,1654
+56,Tonne-Kilometre,2013Q3,Other,688
+57,Tonne-Kilometre,2013Q4,All business activities,1950
+58,Tonne-Kilometre,2013Q4,Transport,1365
+59,Tonne-Kilometre,2013Q4,Other,585
+60,Tonne-Kilometre,2014Q1,All business activities,2676
+61,Tonne-Kilometre,2014Q1,Transport,1937
+62,Tonne-Kilometre,2014Q1,Other,739
+63,Tonne-Kilometre,2014Q2,All business activities,2482
+64,Tonne-Kilometre,2014Q2,Transport,1774
+65,Tonne-Kilometre,2014Q2,Other,709
+66,Tonne-Kilometre,2014Q3,All business activities,2414
+67,Tonne-Kilometre,2014Q3,Transport,1721
+68,Tonne-Kilometre,2014Q3,Other,692
+69,Tonne-Kilometre,2014Q4,All business activities,2200
+70,Tonne-Kilometre,2014Q4,Transport,1537
+71,Tonne-Kilometre,2014Q4,Other,663
+72,Tonne-Kilometre,2015Q1,All business activities,2305
+73,Tonne-Kilometre,2015Q1,Transport,1574
+74,Tonne-Kilometre,2015Q1,Other,730
+75,Tonne-Kilometre,2015Q2,All business activities,2535
+76,Tonne-Kilometre,2015Q2,Transport,1798
+77,Tonne-Kilometre,2015Q2,Other,737
+78,Tonne-Kilometre,2015Q3,All business activities,2570
+79,Tonne-Kilometre,2015Q3,Transport,1809
+80,Tonne-Kilometre,2015Q3,Other,761
+81,Tonne-Kilometre,2015Q4,All business activities,2435
+82,Tonne-Kilometre,2015Q4,Transport,1682
+83,Tonne-Kilometre,2015Q4,Other,753
+84,Tonne-Kilometre,2016Q1,All business activities,2729
+85,Tonne-Kilometre,2016Q1,Transport,1985
+86,Tonne-Kilometre,2016Q1,Other,743
+87,Tonne-Kilometre,2016Q2,All business activities,2884
+88,Tonne-Kilometre,2016Q2,Transport,2195
+89,Tonne-Kilometre,2016Q2,Other,690
+90,Tonne-Kilometre,2016Q3,All business activities,2896
+91,Tonne-Kilometre,2016Q3,Transport,2109
+92,Tonne-Kilometre,2016Q3,Other,786
+93,Tonne-Kilometre,2016Q4,All business activities,3055
+94,Tonne-Kilometre,2016Q4,Transport,2125
+95,Tonne-Kilometre,2016Q4,Other,930
+96,Tonne-Kilometre,2017Q1,All business activities,2754
+97,Tonne-Kilometre,2017Q1,Transport,1968
+98,Tonne-Kilometre,2017Q1,Other,786
+99,Tonne-Kilometre,2017Q2,All business activities,2962
+100,Tonne-Kilometre,2017Q2,Transport,2117
+101,Tonne-Kilometre,2017Q2,Other,845
+102,Tonne-Kilometre,2017Q3,All business activities,3051
+103,Tonne-Kilometre,2017Q3,Transport,2114
+104,Tonne-Kilometre,2017Q3,Other,937
+105,Tonne-Kilometre,2017Q4,All business activities,2992
+106,Tonne-Kilometre,2017Q4,Transport,2119
+107,Tonne-Kilometre,2017Q4,Other,873
+108,Tonne-Kilometre,2018Q1,All business activities,2764
+109,Tonne-Kilometre,2018Q1,Transport,1778
+110,Tonne-Kilometre,2018Q1,Other,986
+111,Tonne-Kilometre,2018Q2,All business activities,3114
+112,Tonne-Kilometre,2018Q2,Transport,2208
+113,Tonne-Kilometre,2018Q2,Other,906
+114,Tonne-Kilometre,2018Q3,All business activities,2949
+115,Tonne-Kilometre,2018Q3,Transport,2048
+116,Tonne-Kilometre,2018Q3,Other,901
+117,Tonne-Kilometre,2018Q4,All business activities,2710
+118,Tonne-Kilometre,2018Q4,Transport,1936
+119,Tonne-Kilometre,2018Q4,Other,774
+120,Tonne-Kilometre,2019Q1,All business activities,2890
+121,Tonne-Kilometre,2019Q1,Transport,2031
+122,Tonne-Kilometre,2019Q1,Other,859
+123,Tonne-Kilometre,2019Q2,All business activities,3136
+124,Tonne-Kilometre,2019Q2,Transport,2216
+125,Tonne-Kilometre,2019Q2,Other,920
+126,Tonne-Kilometre,2019Q3,All business activities,3277
+127,Tonne-Kilometre,2019Q3,Transport,2272
+128,Tonne-Kilometre,2019Q3,Other,1005
+129,Tonne-Kilometre,2019Q4,All business activities,3100
+130,Tonne-Kilometre,2019Q4,Transport,2058
+131,Tonne-Kilometre,2019Q4,Other,1042
+132,Tonne-Kilometre,2020Q1,All business activities,2873
+133,Tonne-Kilometre,2020Q1,Transport,1998
+134,Tonne-Kilometre,2020Q1,Other,875
+135,Tonne-Kilometre,2020Q2,All business activities,2406
+136,Tonne-Kilometre,2020Q2,Transport,1640
+137,Tonne-Kilometre,2020Q2,Other,766
+138,Tonne-Kilometre,2020Q3,All business activities,3110
+139,Tonne-Kilometre,2020Q3,Transport,2136
+140,Tonne-Kilometre,2020Q3,Other,973
+141,Tonne-Kilometre,2020Q4,All business activities,2994
+142,Tonne-Kilometre,2020Q4,Transport,2009
+143,Tonne-Kilometre,2020Q4,Other,986
+144,Tonne-Kilometre,2021Q1,All business activities,2852
+145,Tonne-Kilometre,2021Q1,Transport,1878
+146,Tonne-Kilometre,2021Q1,Other,973
+147,Tonne-Kilometre,2021Q2,All business activities,3225
+148,Tonne-Kilometre,2021Q2,Transport,2228
+149,Tonne-Kilometre,2021Q2,Other,998
+150,Tonne-Kilometre,2021Q3,All business activities,3326
+151,Tonne-Kilometre,2021Q3,Transport,2303
+152,Tonne-Kilometre,2021Q3,Other,1023
+153,Tonne-Kilometre,2021Q4,All business activities,3082
+154,Tonne-Kilometre,2021Q4,Transport,2179
+155,Tonne-Kilometre,2021Q4,Other,903
+156,Tonne-Kilometre,2022Q1,All business activities,3048
+157,Tonne-Kilometre,2022Q1,Transport,2032
+158,Tonne-Kilometre,2022Q1,Other,1016
+159,Tonne-Kilometre,2022Q2,All business activities,3364
+160,Tonne-Kilometre,2022Q2,Transport,2358
+161,Tonne-Kilometre,2022Q2,Other,1006
+162,Tonne-Kilometre,2022Q3,All business activities,2969
+163,Tonne-Kilometre,2022Q3,Transport,2084
+164,Tonne-Kilometre,2022Q3,Other,885
+165,Tonne-Kilometre,2022Q4,All business activities,2998
+166,Tonne-Kilometre,2022Q4,Transport,2113
+167,Tonne-Kilometre,2022Q4,Other,885
+168,Tonne-Kilometre,2023Q1,All business activities,3082
+169,Tonne-Kilometre,2023Q1,Transport,2024
+170,Tonne-Kilometre,2023Q1,Other,1059
+171,Tonne-Kilometre,2023Q2,All business activities,3278
+172,Tonne-Kilometre,2023Q2,Transport,2353
+173,Tonne-Kilometre,2023Q2,Other,925
+174,Tonnes Carried,2009Q1,All business activities,42164
+175,Tonnes Carried,2009Q1,Transport,19878
+176,Tonnes Carried,2009Q1,Other,22285
+177,Tonnes Carried,2009Q2,All business activities,37377
+178,Tonnes Carried,2009Q2,Transport,16555
+179,Tonnes Carried,2009Q2,Other,20822
+180,Tonnes Carried,2009Q3,All business activities,35612
+181,Tonnes Carried,2009Q3,Transport,15015
+182,Tonnes Carried,2009Q3,Other,20598
+183,Tonnes Carried,2009Q4,All business activities,33161
+184,Tonnes Carried,2009Q4,Transport,15028
+185,Tonnes Carried,2009Q4,Other,18133
+186,Tonnes Carried,2010Q1,All business activities,31746
+187,Tonnes Carried,2010Q1,Transport,14946
+188,Tonnes Carried,2010Q1,Other,16800
+189,Tonnes Carried,2010Q2,All business activities,34782
+190,Tonnes Carried,2010Q2,Transport,15897
+191,Tonnes Carried,2010Q2,Other,18884
+192,Tonnes Carried,2010Q3,All business activities,31635
+193,Tonnes Carried,2010Q3,Transport,14317
+194,Tonnes Carried,2010Q3,Other,17318
+195,Tonnes Carried,2010Q4,All business activities,27703
+196,Tonnes Carried,2010Q4,Transport,13678
+197,Tonnes Carried,2010Q4,Other,14024
+198,Tonnes Carried,2011Q1,All business activities,26243
+199,Tonnes Carried,2011Q1,Transport,12988
+200,Tonnes Carried,2011Q1,Other,13255
+201,Tonnes Carried,2011Q2,All business activities,28494
+202,Tonnes Carried,2011Q2,Transport,13613
+203,Tonnes Carried,2011Q2,Other,14881
+204,Tonnes Carried,2011Q3,All business activities,30064
+205,Tonnes Carried,2011Q3,Transport,15846
+206,Tonnes Carried,2011Q3,Other,14219
+207,Tonnes Carried,2011Q4,All business activities,25459
+208,Tonnes Carried,2011Q4,Transport,12393
+209,Tonnes Carried,2011Q4,Other,13066
+210,Tonnes Carried,2012Q1,All business activities,26750
+211,Tonnes Carried,2012Q1,Transport,14735
+212,Tonnes Carried,2012Q1,Other,12015
+213,Tonnes Carried,2012Q2,All business activities,27598
+214,Tonnes Carried,2012Q2,Transport,14737
+215,Tonnes Carried,2012Q2,Other,12861
+216,Tonnes Carried,2012Q3,All business activities,28603
+217,Tonnes Carried,2012Q3,Transport,15234
+218,Tonnes Carried,2012Q3,Other,13369
+219,Tonnes Carried,2012Q4,All business activities,25126
+220,Tonnes Carried,2012Q4,Transport,13630
+221,Tonnes Carried,2012Q4,Other,11496
+222,Tonnes Carried,2013Q1,All business activities,25739
+223,Tonnes Carried,2013Q1,Transport,14990
+224,Tonnes Carried,2013Q1,Other,10749
+225,Tonnes Carried,2013Q2,All business activities,30802
+226,Tonnes Carried,2013Q2,Transport,16508
+227,Tonnes Carried,2013Q2,Other,14294
+228,Tonnes Carried,2013Q3,All business activities,29498
+229,Tonnes Carried,2013Q3,Transport,16577
+230,Tonnes Carried,2013Q3,Other,12920
+231,Tonnes Carried,2013Q4,All business activities,22792
+232,Tonnes Carried,2013Q4,Transport,12823
+233,Tonnes Carried,2013Q4,Other,9970
+234,Tonnes Carried,2014Q1,All business activities,29303
+235,Tonnes Carried,2014Q1,Transport,17093
+236,Tonnes Carried,2014Q1,Other,12210
+237,Tonnes Carried,2014Q2,All business activities,28353
+238,Tonnes Carried,2014Q2,Transport,16262
+239,Tonnes Carried,2014Q2,Other,12092
+240,Tonnes Carried,2014Q3,All business activities,28831
+241,Tonnes Carried,2014Q3,Transport,16831
+242,Tonnes Carried,2014Q3,Other,12000
+243,Tonnes Carried,2014Q4,All business activities,26012
+244,Tonnes Carried,2014Q4,Transport,15054
+245,Tonnes Carried,2014Q4,Other,10958
+246,Tonnes Carried,2015Q1,All business activities,27041
+247,Tonnes Carried,2015Q1,Transport,14177
+248,Tonnes Carried,2015Q1,Other,12864
+249,Tonnes Carried,2015Q2,All business activities,29570
+250,Tonnes Carried,2015Q2,Transport,17523
+251,Tonnes Carried,2015Q2,Other,12047
+252,Tonnes Carried,2015Q3,All business activities,31810
+253,Tonnes Carried,2015Q3,Transport,18207
+254,Tonnes Carried,2015Q3,Other,13602
+255,Tonnes Carried,2015Q4,All business activities,29637
+256,Tonnes Carried,2015Q4,Transport,17066
+257,Tonnes Carried,2015Q4,Other,12572
+258,Tonnes Carried,2016Q1,All business activities,33008
+259,Tonnes Carried,2016Q1,Transport,19278
+260,Tonnes Carried,2016Q1,Other,13730
+261,Tonnes Carried,2016Q2,All business activities,35494
+262,Tonnes Carried,2016Q2,Transport,22273
+263,Tonnes Carried,2016Q2,Other,13221
+264,Tonnes Carried,2016Q3,All business activities,35882
+265,Tonnes Carried,2016Q3,Transport,22510
+266,Tonnes Carried,2016Q3,Other,13372
+267,Tonnes Carried,2016Q4,All business activities,37286
+268,Tonnes Carried,2016Q4,Transport,22909
+269,Tonnes Carried,2016Q4,Other,14377
+270,Tonnes Carried,2017Q1,All business activities,34946
+271,Tonnes Carried,2017Q1,Transport,20863
+272,Tonnes Carried,2017Q1,Other,14083
+273,Tonnes Carried,2017Q2,All business activities,39611
+274,Tonnes Carried,2017Q2,Transport,22685
+275,Tonnes Carried,2017Q2,Other,16926
+276,Tonnes Carried,2017Q3,All business activities,37050
+277,Tonnes Carried,2017Q3,Transport,21329
+278,Tonnes Carried,2017Q3,Other,15720
+279,Tonnes Carried,2017Q4,All business activities,35622
+280,Tonnes Carried,2017Q4,Transport,19680
+281,Tonnes Carried,2017Q4,Other,15943
+282,Tonnes Carried,2018Q1,All business activities,35589
+283,Tonnes Carried,2018Q1,Transport,18732
+284,Tonnes Carried,2018Q1,Other,16857
+285,Tonnes Carried,2018Q2,All business activities,40325
+286,Tonnes Carried,2018Q2,Transport,22169
+287,Tonnes Carried,2018Q2,Other,18156
+288,Tonnes Carried,2018Q3,All business activities,40983
+289,Tonnes Carried,2018Q3,Transport,22939
+290,Tonnes Carried,2018Q3,Other,18044
+291,Tonnes Carried,2018Q4,All business activities,33138
+292,Tonnes Carried,2018Q4,Transport,18822
+293,Tonnes Carried,2018Q4,Other,14316
+294,Tonnes Carried,2019Q1,All business activities,36579
+295,Tonnes Carried,2019Q1,Transport,21299
+296,Tonnes Carried,2019Q1,Other,15280
+297,Tonnes Carried,2019Q2,All business activities,42782
+298,Tonnes Carried,2019Q2,Transport,23922
+299,Tonnes Carried,2019Q2,Other,18861
+300,Tonnes Carried,2019Q3,All business activities,42061
+301,Tonnes Carried,2019Q3,Transport,23838
+302,Tonnes Carried,2019Q3,Other,18223
+303,Tonnes Carried,2019Q4,All business activities,37992
+304,Tonnes Carried,2019Q4,Transport,20284
+305,Tonnes Carried,2019Q4,Other,17707
+306,Tonnes Carried,2020Q1,All business activities,36596
+307,Tonnes Carried,2020Q1,Transport,20998
+308,Tonnes Carried,2020Q1,Other,15598
+309,Tonnes Carried,2020Q2,All business activities,30034
+310,Tonnes Carried,2020Q2,Transport,16110
+311,Tonnes Carried,2020Q2,Other,13924
+312,Tonnes Carried,2020Q3,All business activities,39771
+313,Tonnes Carried,2020Q3,Transport,20904
+314,Tonnes Carried,2020Q3,Other,18867
+315,Tonnes Carried,2020Q4,All business activities,34597
+316,Tonnes Carried,2020Q4,Transport,18350
+317,Tonnes Carried,2020Q4,Other,16247
+318,Tonnes Carried,2021Q1,All business activities,34343
+319,Tonnes Carried,2021Q1,Transport,18815
+320,Tonnes Carried,2021Q1,Other,15528
+321,Tonnes Carried,2021Q2,All business activities,39974
+322,Tonnes Carried,2021Q2,Transport,21971
+323,Tonnes Carried,2021Q2,Other,18003
+324,Tonnes Carried,2021Q3,All business activities,43184
+325,Tonnes Carried,2021Q3,Transport,25502
+326,Tonnes Carried,2021Q3,Other,17683
+327,Tonnes Carried,2021Q4,All business activities,37399
+328,Tonnes Carried,2021Q4,Transport,21446
+329,Tonnes Carried,2021Q4,Other,15953
+330,Tonnes Carried,2022Q1,All business activities,40764
+331,Tonnes Carried,2022Q1,Transport,22176
+332,Tonnes Carried,2022Q1,Other,18588
+333,Tonnes Carried,2022Q2,All business activities,40875
+334,Tonnes Carried,2022Q2,Transport,21346
+335,Tonnes Carried,2022Q2,Other,19529
+336,Tonnes Carried,2022Q3,All business activities,43366
+337,Tonnes Carried,2022Q3,Transport,25267
+338,Tonnes Carried,2022Q3,Other,18099
+339,Tonnes Carried,2022Q4,All business activities,39180
+340,Tonnes Carried,2022Q4,Transport,22522
+341,Tonnes Carried,2022Q4,Other,16658
+342,Tonnes Carried,2023Q1,All business activities,41766
+343,Tonnes Carried,2023Q1,Transport,22613
+344,Tonnes Carried,2023Q1,Other,19153
+345,Tonnes Carried,2023Q2,All business activities,45704
+346,Tonnes Carried,2023Q2,Transport,27094
+347,Tonnes Carried,2023Q2,Other,18610
+348,Laden Journeys,2009Q1,All business activities,3618
+349,Laden Journeys,2009Q1,Transport,1115
+350,Laden Journeys,2009Q1,Other,2503
+351,Laden Journeys,2009Q2,All business activities,3128
+352,Laden Journeys,2009Q2,Transport,960
+353,Laden Journeys,2009Q2,Other,2168
+354,Laden Journeys,2009Q3,All business activities,2934
+355,Laden Journeys,2009Q3,Transport,844
+356,Laden Journeys,2009Q3,Other,2090
+357,Laden Journeys,2009Q4,All business activities,2974
+358,Laden Journeys,2009Q4,Transport,882
+359,Laden Journeys,2009Q4,Other,2092
+360,Laden Journeys,2010Q1,All business activities,2774
+361,Laden Journeys,2010Q1,Transport,865
+362,Laden Journeys,2010Q1,Other,1909
+363,Laden Journeys,2010Q2,All business activities,3101
+364,Laden Journeys,2010Q2,Transport,926
+365,Laden Journeys,2010Q2,Other,2175
+366,Laden Journeys,2010Q3,All business activities,2821
+367,Laden Journeys,2010Q3,Transport,851
+368,Laden Journeys,2010Q3,Other,1970
+369,Laden Journeys,2010Q4,All business activities,2481
+370,Laden Journeys,2010Q4,Transport,795
+371,Laden Journeys,2010Q4,Other,1686
+372,Laden Journeys,2011Q1,All business activities,2378
+373,Laden Journeys,2011Q1,Transport,806
+374,Laden Journeys,2011Q1,Other,1572
+375,Laden Journeys,2011Q2,All business activities,2710
+376,Laden Journeys,2011Q2,Transport,889
+377,Laden Journeys,2011Q2,Other,1822
+378,Laden Journeys,2011Q3,All business activities,2667
+379,Laden Journeys,2011Q3,Transport,938
+380,Laden Journeys,2011Q3,Other,1729
+381,Laden Journeys,2011Q4,All business activities,2413
+382,Laden Journeys,2011Q4,Transport,823
+383,Laden Journeys,2011Q4,Other,1591
+384,Laden Journeys,2012Q1,All business activities,2516
+385,Laden Journeys,2012Q1,Transport,942
+386,Laden Journeys,2012Q1,Other,1575
+387,Laden Journeys,2012Q2,All business activities,2670
+388,Laden Journeys,2012Q2,Transport,881
+389,Laden Journeys,2012Q2,Other,1789
+390,Laden Journeys,2012Q3,All business activities,2515
+391,Laden Journeys,2012Q3,Transport,915
+392,Laden Journeys,2012Q3,Other,1600
+393,Laden Journeys,2012Q4,All business activities,2355
+394,Laden Journeys,2012Q4,Transport,794
+395,Laden Journeys,2012Q4,Other,1561
+396,Laden Journeys,2013Q1,All business activities,2499
+397,Laden Journeys,2013Q1,Transport,934
+398,Laden Journeys,2013Q1,Other,1565
+399,Laden Journeys,2013Q2,All business activities,2737
+400,Laden Journeys,2013Q2,Transport,946
+401,Laden Journeys,2013Q2,Other,1791
+402,Laden Journeys,2013Q3,All business activities,2600
+403,Laden Journeys,2013Q3,Transport,1027
+404,Laden Journeys,2013Q3,Other,1573
+405,Laden Journeys,2013Q4,All business activities,2089
+406,Laden Journeys,2013Q4,Transport,742
+407,Laden Journeys,2013Q4,Other,1347
+408,Laden Journeys,2014Q1,All business activities,2661
+409,Laden Journeys,2014Q1,Transport,1078
+410,Laden Journeys,2014Q1,Other,1583
+411,Laden Journeys,2014Q2,All business activities,2517
+412,Laden Journeys,2014Q2,Transport,995
+413,Laden Journeys,2014Q2,Other,1522
+414,Laden Journeys,2014Q3,All business activities,2541
+415,Laden Journeys,2014Q3,Transport,965
+416,Laden Journeys,2014Q3,Other,1576
+417,Laden Journeys,2014Q4,All business activities,2376
+418,Laden Journeys,2014Q4,Transport,909
+419,Laden Journeys,2014Q4,Other,1467
+420,Laden Journeys,2015Q1,All business activities,2444
+421,Laden Journeys,2015Q1,Transport,880
+422,Laden Journeys,2015Q1,Other,1564
+423,Laden Journeys,2015Q2,All business activities,2568
+424,Laden Journeys,2015Q2,Transport,1042
+425,Laden Journeys,2015Q2,Other,1526
+426,Laden Journeys,2015Q3,All business activities,2754
+427,Laden Journeys,2015Q3,Transport,1096
+428,Laden Journeys,2015Q3,Other,1657
+429,Laden Journeys,2015Q4,All business activities,2513
+430,Laden Journeys,2015Q4,Transport,976
+431,Laden Journeys,2015Q4,Other,1537
+432,Laden Journeys,2016Q1,All business activities,3003
+433,Laden Journeys,2016Q1,Transport,1173
+434,Laden Journeys,2016Q1,Other,1831
+435,Laden Journeys,2016Q2,All business activities,3006
+436,Laden Journeys,2016Q2,Transport,1302
+437,Laden Journeys,2016Q2,Other,1704
+438,Laden Journeys,2016Q3,All business activities,3050
+439,Laden Journeys,2016Q3,Transport,1328
+440,Laden Journeys,2016Q3,Other,1723
+441,Laden Journeys,2016Q4,All business activities,3031
+442,Laden Journeys,2016Q4,Transport,1361
+443,Laden Journeys,2016Q4,Other,1670
+444,Laden Journeys,2017Q1,All business activities,3044
+445,Laden Journeys,2017Q1,Transport,1273
+446,Laden Journeys,2017Q1,Other,1771
+447,Laden Journeys,2017Q2,All business activities,3353
+448,Laden Journeys,2017Q2,Transport,1319
+449,Laden Journeys,2017Q2,Other,2033
+450,Laden Journeys,2017Q3,All business activities,3234
+451,Laden Journeys,2017Q3,Transport,1275
+452,Laden Journeys,2017Q3,Other,1959
+453,Laden Journeys,2017Q4,All business activities,3195
+454,Laden Journeys,2017Q4,Transport,1180
+455,Laden Journeys,2017Q4,Other,2015
+456,Laden Journeys,2018Q1,All business activities,3252
+457,Laden Journeys,2018Q1,Transport,1219
+458,Laden Journeys,2018Q1,Other,2032
+459,Laden Journeys,2018Q2,All business activities,3510
+460,Laden Journeys,2018Q2,Transport,1324
+461,Laden Journeys,2018Q2,Other,2185
+462,Laden Journeys,2018Q3,All business activities,3501
+463,Laden Journeys,2018Q3,Transport,1348
+464,Laden Journeys,2018Q3,Other,2152
+465,Laden Journeys,2018Q4,All business activities,3098
+466,Laden Journeys,2018Q4,Transport,1134
+467,Laden Journeys,2018Q4,Other,1964
+468,Laden Journeys,2019Q1,All business activities,3488
+469,Laden Journeys,2019Q1,Transport,1420
+470,Laden Journeys,2019Q1,Other,2068
+471,Laden Journeys,2019Q2,All business activities,3966
+472,Laden Journeys,2019Q2,Transport,1423
+473,Laden Journeys,2019Q2,Other,2543
+474,Laden Journeys,2019Q3,All business activities,3711
+475,Laden Journeys,2019Q3,Transport,1554
+476,Laden Journeys,2019Q3,Other,2156
+477,Laden Journeys,2019Q4,All business activities,3315
+478,Laden Journeys,2019Q4,Transport,1171
+479,Laden Journeys,2019Q4,Other,2144
+480,Laden Journeys,2020Q1,All business activities,3254
+481,Laden Journeys,2020Q1,Transport,1234
+482,Laden Journeys,2020Q1,Other,2020
+483,Laden Journeys,2020Q2,All business activities,2403
+484,Laden Journeys,2020Q2,Transport,898
+485,Laden Journeys,2020Q2,Other,1505
+486,Laden Journeys,2020Q3,All business activities,3306
+487,Laden Journeys,2020Q3,Transport,1285
+488,Laden Journeys,2020Q3,Other,2021
+489,Laden Journeys,2020Q4,All business activities,2812
+490,Laden Journeys,2020Q4,Transport,1058
+491,Laden Journeys,2020Q4,Other,1753
+492,Laden Journeys,2021Q1,All business activities,3242
+493,Laden Journeys,2021Q1,Transport,1143
+494,Laden Journeys,2021Q1,Other,2099
+495,Laden Journeys,2021Q2,All business activities,3191
+496,Laden Journeys,2021Q2,Transport,1272
+497,Laden Journeys,2021Q2,Other,1919
+498,Laden Journeys,2021Q3,All business activities,3601
+499,Laden Journeys,2021Q3,Transport,1455
+500,Laden Journeys,2021Q3,Other,2146
+501,Laden Journeys,2021Q4,All business activities,3058
+502,Laden Journeys,2021Q4,Transport,1249
+503,Laden Journeys,2021Q4,Other,1809
+504,Laden Journeys,2022Q1,All business activities,3539
+505,Laden Journeys,2022Q1,Transport,1341
+506,Laden Journeys,2022Q1,Other,2198
+507,Laden Journeys,2022Q2,All business activities,3516
+508,Laden Journeys,2022Q2,Transport,1235
+509,Laden Journeys,2022Q2,Other,2281
+510,Laden Journeys,2022Q3,All business activities,3344
+511,Laden Journeys,2022Q3,Transport,1438
+512,Laden Journeys,2022Q3,Other,1906
+513,Laden Journeys,2022Q4,All business activities,3415
+514,Laden Journeys,2022Q4,Transport,1349
+515,Laden Journeys,2022Q4,Other,2067
+516,Laden Journeys,2023Q1,All business activities,3612
+517,Laden Journeys,2023Q1,Transport,1374
+518,Laden Journeys,2023Q1,Other,2239
+519,Laden Journeys,2023Q2,All business activities,3540
+520,Laden Journeys,2023Q2,Transport,1495
+521,Laden Journeys,2023Q2,Other,2045
+522,All Vehicle Kilometres,2009Q1,All business activities,433
+523,All Vehicle Kilometres,2009Q1,Transport,179
+524,All Vehicle Kilometres,2009Q1,Other,255
+525,All Vehicle Kilometres,2009Q2,All business activities,379
+526,All Vehicle Kilometres,2009Q2,Transport,160
+527,All Vehicle Kilometres,2009Q2,Other,219
+528,All Vehicle Kilometres,2009Q3,All business activities,360
+529,All Vehicle Kilometres,2009Q3,Transport,139
+530,All Vehicle Kilometres,2009Q3,Other,221
+531,All Vehicle Kilometres,2009Q4,All business activities,411
+532,All Vehicle Kilometres,2009Q4,Transport,175
+533,All Vehicle Kilometres,2009Q4,Other,236
+534,All Vehicle Kilometres,2010Q1,All business activities,363
+535,All Vehicle Kilometres,2010Q1,Transport,149
+536,All Vehicle Kilometres,2010Q1,Other,214
+537,All Vehicle Kilometres,2010Q2,All business activities,400
+538,All Vehicle Kilometres,2010Q2,Transport,164
+539,All Vehicle Kilometres,2010Q2,Other,236
+540,All Vehicle Kilometres,2010Q3,All business activities,366
+541,All Vehicle Kilometres,2010Q3,Transport,161
+542,All Vehicle Kilometres,2010Q3,Other,205
+543,All Vehicle Kilometres,2010Q4,All business activities,329
+544,All Vehicle Kilometres,2010Q4,Transport,150
+545,All Vehicle Kilometres,2010Q4,Other,179
+546,All Vehicle Kilometres,2011Q1,All business activities,330
+547,All Vehicle Kilometres,2011Q1,Transport,161
+548,All Vehicle Kilometres,2011Q1,Other,169
+549,All Vehicle Kilometres,2011Q2,All business activities,363
+550,All Vehicle Kilometres,2011Q2,Transport,166
+551,All Vehicle Kilometres,2011Q2,Other,197
+552,All Vehicle Kilometres,2011Q3,All business activities,340
+553,All Vehicle Kilometres,2011Q3,Transport,170
+554,All Vehicle Kilometres,2011Q3,Other,170
+555,All Vehicle Kilometres,2011Q4,All business activities,304
+556,All Vehicle Kilometres,2011Q4,Transport,141
+557,All Vehicle Kilometres,2011Q4,Other,163
+558,All Vehicle Kilometres,2012Q1,All business activities,350
+559,All Vehicle Kilometres,2012Q1,Transport,177
+560,All Vehicle Kilometres,2012Q1,Other,173
+561,All Vehicle Kilometres,2012Q2,All business activities,330
+562,All Vehicle Kilometres,2012Q2,Transport,161
+563,All Vehicle Kilometres,2012Q2,Other,169
+564,All Vehicle Kilometres,2012Q3,All business activities,334
+565,All Vehicle Kilometres,2012Q3,Transport,164
+566,All Vehicle Kilometres,2012Q3,Other,170
+567,All Vehicle Kilometres,2012Q4,All business activities,303
+568,All Vehicle Kilometres,2012Q4,Transport,141
+569,All Vehicle Kilometres,2012Q4,Other,162
+570,All Vehicle Kilometres,2013Q1,All business activities,318
+571,All Vehicle Kilometres,2013Q1,Transport,157
+572,All Vehicle Kilometres,2013Q1,Other,162
+573,All Vehicle Kilometres,2013Q2,All business activities,338
+574,All Vehicle Kilometres,2013Q2,Transport,156
+575,All Vehicle Kilometres,2013Q2,Other,181
+576,All Vehicle Kilometres,2013Q3,All business activities,330
+577,All Vehicle Kilometres,2013Q3,Transport,171
+578,All Vehicle Kilometres,2013Q3,Other,159
+579,All Vehicle Kilometres,2013Q4,All business activities,276
+580,All Vehicle Kilometres,2013Q4,Transport,134
+581,All Vehicle Kilometres,2013Q4,Other,141
+582,All Vehicle Kilometres,2014Q1,All business activities,347
+583,All Vehicle Kilometres,2014Q1,Transport,186
+584,All Vehicle Kilometres,2014Q1,Other,161
+585,All Vehicle Kilometres,2014Q2,All business activities,334
+586,All Vehicle Kilometres,2014Q2,Transport,176
+587,All Vehicle Kilometres,2014Q2,Other,158
+588,All Vehicle Kilometres,2014Q3,All business activities,323
+589,All Vehicle Kilometres,2014Q3,Transport,165
+590,All Vehicle Kilometres,2014Q3,Other,158
+591,All Vehicle Kilometres,2014Q4,All business activities,303
+592,All Vehicle Kilometres,2014Q4,Transport,149
+593,All Vehicle Kilometres,2014Q4,Other,154
+594,All Vehicle Kilometres,2015Q1,All business activities,316
+595,All Vehicle Kilometres,2015Q1,Transport,154
+596,All Vehicle Kilometres,2015Q1,Other,162
+597,All Vehicle Kilometres,2015Q2,All business activities,326
+598,All Vehicle Kilometres,2015Q2,Transport,169
+599,All Vehicle Kilometres,2015Q2,Other,157
+600,All Vehicle Kilometres,2015Q3,All business activities,344
+601,All Vehicle Kilometres,2015Q3,Transport,180
+602,All Vehicle Kilometres,2015Q3,Other,163
+603,All Vehicle Kilometres,2015Q4,All business activities,317
+604,All Vehicle Kilometres,2015Q4,Transport,158
+605,All Vehicle Kilometres,2015Q4,Other,159
+606,All Vehicle Kilometres,2016Q1,All business activities,386
+607,All Vehicle Kilometres,2016Q1,Transport,192
+608,All Vehicle Kilometres,2016Q1,Other,193
+609,All Vehicle Kilometres,2016Q2,All business activities,386
+610,All Vehicle Kilometres,2016Q2,Transport,209
+611,All Vehicle Kilometres,2016Q2,Other,177
+612,All Vehicle Kilometres,2016Q3,All business activities,393
+613,All Vehicle Kilometres,2016Q3,Transport,214
+614,All Vehicle Kilometres,2016Q3,Other,179
+615,All Vehicle Kilometres,2016Q4,All business activities,394
+616,All Vehicle Kilometres,2016Q4,Transport,211
+617,All Vehicle Kilometres,2016Q4,Other,183
+618,All Vehicle Kilometres,2017Q1,All business activities,373
+619,All Vehicle Kilometres,2017Q1,Transport,190
+620,All Vehicle Kilometres,2017Q1,Other,183
+621,All Vehicle Kilometres,2017Q2,All business activities,412
+622,All Vehicle Kilometres,2017Q2,Transport,204
+623,All Vehicle Kilometres,2017Q2,Other,208
+624,All Vehicle Kilometres,2017Q3,All business activities,395
+625,All Vehicle Kilometres,2017Q3,Transport,207
+626,All Vehicle Kilometres,2017Q3,Other,187
+627,All Vehicle Kilometres,2017Q4,All business activities,412
+628,All Vehicle Kilometres,2017Q4,Transport,204
+629,All Vehicle Kilometres,2017Q4,Other,208
+630,All Vehicle Kilometres,2018Q1,All business activities,385
+631,All Vehicle Kilometres,2018Q1,Transport,184
+632,All Vehicle Kilometres,2018Q1,Other,201
+633,All Vehicle Kilometres,2018Q2,All business activities,420
+634,All Vehicle Kilometres,2018Q2,Transport,210
+635,All Vehicle Kilometres,2018Q2,Other,210
+636,All Vehicle Kilometres,2018Q3,All business activities,423
+637,All Vehicle Kilometres,2018Q3,Transport,209
+638,All Vehicle Kilometres,2018Q3,Other,214
+639,All Vehicle Kilometres,2018Q4,All business activities,371
+640,All Vehicle Kilometres,2018Q4,Transport,192
+641,All Vehicle Kilometres,2018Q4,Other,179
+642,All Vehicle Kilometres,2019Q1,All business activities,418
+643,All Vehicle Kilometres,2019Q1,Transport,216
+644,All Vehicle Kilometres,2019Q1,Other,202
+645,All Vehicle Kilometres,2019Q2,All business activities,450
+646,All Vehicle Kilometres,2019Q2,Transport,216
+647,All Vehicle Kilometres,2019Q2,Other,234
+648,All Vehicle Kilometres,2019Q3,All business activities,454
+649,All Vehicle Kilometres,2019Q3,Transport,238
+650,All Vehicle Kilometres,2019Q3,Other,216
+651,All Vehicle Kilometres,2019Q4,All business activities,412
+652,All Vehicle Kilometres,2019Q4,Transport,192
+653,All Vehicle Kilometres,2019Q4,Other,221
+654,All Vehicle Kilometres,2020Q1,All business activities,405
+655,All Vehicle Kilometres,2020Q1,Transport,189
+656,All Vehicle Kilometres,2020Q1,Other,216
+657,All Vehicle Kilometres,2020Q2,All business activities,305
+658,All Vehicle Kilometres,2020Q2,Transport,144
+659,All Vehicle Kilometres,2020Q2,Other,162
+660,All Vehicle Kilometres,2020Q3,All business activities,401
+661,All Vehicle Kilometres,2020Q3,Transport,194
+662,All Vehicle Kilometres,2020Q3,Other,206
+663,All Vehicle Kilometres,2020Q4,All business activities,377
+664,All Vehicle Kilometres,2020Q4,Transport,187
+665,All Vehicle Kilometres,2020Q4,Other,190
+666,All Vehicle Kilometres,2021Q1,All business activities,417
+667,All Vehicle Kilometres,2021Q1,Transport,190
+668,All Vehicle Kilometres,2021Q1,Other,227
+669,All Vehicle Kilometres,2021Q2,All business activities,426
+670,All Vehicle Kilometres,2021Q2,Transport,211
+671,All Vehicle Kilometres,2021Q2,Other,216
+672,All Vehicle Kilometres,2021Q3,All business activities,455
+673,All Vehicle Kilometres,2021Q3,Transport,223
+674,All Vehicle Kilometres,2021Q3,Other,232
+675,All Vehicle Kilometres,2021Q4,All business activities,387
+676,All Vehicle Kilometres,2021Q4,Transport,205
+677,All Vehicle Kilometres,2021Q4,Other,182
+678,All Vehicle Kilometres,2022Q1,All business activities,468
+679,All Vehicle Kilometres,2022Q1,Transport,223
+680,All Vehicle Kilometres,2022Q1,Other,245
+681,All Vehicle Kilometres,2022Q2,All business activities,464
+682,All Vehicle Kilometres,2022Q2,Transport,214
+683,All Vehicle Kilometres,2022Q2,Other,250
+684,All Vehicle Kilometres,2022Q3,All business activities,422
+685,All Vehicle Kilometres,2022Q3,Transport,207
+686,All Vehicle Kilometres,2022Q3,Other,214
+687,All Vehicle Kilometres,2022Q4,All business activities,433
+688,All Vehicle Kilometres,2022Q4,Transport,222
+689,All Vehicle Kilometres,2022Q4,Other,210
+690,All Vehicle Kilometres,2023Q1,All business activities,441
+691,All Vehicle Kilometres,2023Q1,Transport,202
+692,All Vehicle Kilometres,2023Q1,Other,239
+693,All Vehicle Kilometres,2023Q2,All business activities,453
+694,All Vehicle Kilometres,2023Q2,Transport,233
+695,All Vehicle Kilometres,2023Q2,Other,221
