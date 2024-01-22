@@ -53,14 +53,13 @@ def git_push():
             raise Exception("GitHub token not found in environment variables.")
         username = 'flanneryjcso'
         repository = 'econ_dash_data'
-        url = f'https://github.com/{username}/{repository}.git'
+        url = f'https://{username}:{github_token}@github.com/{username}/{repository}.git'
 
 
         subprocess.run(['git', 'remote', 'set-url', 'origin', url], check=True)
         subprocess.run(['git', 'add', '.'], check=True)
         subprocess.run(['git', 'commit', '-m', 'Automated commit of CSV files'], check=True)
-        #subprocess.run(['git', 'push', 'origin', 'main'], check=True)
-        subprocess.run(['git', 'push', '--set-upstream', 'origin', 'main', '--force'], env={"GITHUB_TOKEN": github_token}, check=True)
+        subprocess.run(['git', 'push', 'origin', 'main'], check=True)
         print("Successfully pushed to GitHub.")
 
     except subprocess.CalledProcessError as e:
