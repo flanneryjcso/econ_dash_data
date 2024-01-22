@@ -48,8 +48,8 @@ def git_push():
 
     try:
 
-        pat = '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'
-        url = f'https://username:{pat}@github.com/flanneryjcso/econ_dash_data.git'
+        github_token = os.environ.get("GITHUB_TOKEN")
+        url = f'https://username:{github_token}@github.com/flanneryjcso/econ_dash_data.git'
 
         subprocess.run(['git', 'remote', 'set-url', 'origin', url], check=True)
         subprocess.run(['git', 'add', '.'], check=True)
