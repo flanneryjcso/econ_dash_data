@@ -40,7 +40,7 @@ for table, labels in pxstat_codes_dict.items():
         elif 'STATISTIC Label' in data.columns:
             data.rename(columns = {'STATISTIC Label': 'Statistic', 'VALUE': 'value'}, inplace = True)
         data.columns = [col.replace(' ', '.') for col in data.columns]
-        data.to_csv(f'/home/flanneryj/econ_dash/{table}.csv')
+        data.to_csv(f'/home/flanneryj/econ_dash/{table}.csv', index = False)
     except Exception as e:
         print(f"An error occured while processing table {table}: {e}")
         continue
