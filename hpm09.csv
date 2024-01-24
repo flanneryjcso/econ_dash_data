@@ -4460,13 +4460,13 @@ Residential Property Price Index,2023 July,Mid-West - houses,194.0
 Residential Property Price Index,2023 July,South-East - houses,197.3
 Residential Property Price Index,2023 July,South-West - houses,188.1
 Residential Property Price Index,2023 August,National - all residential properties,168.5
-Residential Property Price Index,2023 August,National - houses,169.1
+Residential Property Price Index,2023 August,National - houses,169.0
 Residential Property Price Index,2023 August,National - apartments,167.3
 Residential Property Price Index,2023 August,Dublin - all residential properties,146.9
 Residential Property Price Index,2023 August,Dublin - houses,146.4
 Residential Property Price Index,2023 August,Dublin - apartments,151.1
-Residential Property Price Index,2023 August,Dublin City - houses,144.2
-Residential Property Price Index,2023 August,Dun Laoghaire-Rathdown - houses,141.6
+Residential Property Price Index,2023 August,Dublin City - houses,144.3
+Residential Property Price Index,2023 August,Dun Laoghaire-Rathdown - houses,141.5
 Residential Property Price Index,2023 August,Fingal - houses,147.9
 Residential Property Price Index,2023 August,South Dublin - houses,149.8
 Residential Property Price Index,2023 August,National excluding Dublin - all residential properties,191.3
@@ -4474,7 +4474,7 @@ Residential Property Price Index,2023 August,National excluding Dublin - houses,
 Residential Property Price Index,2023 August,National excluding Dublin - apartments,210.7
 Residential Property Price Index,2023 August,Border - houses,197.9
 Residential Property Price Index,2023 August,Midland - houses,207.8
-Residential Property Price Index,2023 August,West - houses,220.9
+Residential Property Price Index,2023 August,West - houses,220.7
 Residential Property Price Index,2023 August,Mid-East - houses,172.3
 Residential Property Price Index,2023 August,Mid-West - houses,195.2
 Residential Property Price Index,2023 August,South-East - houses,197.1
@@ -4487,38 +4487,58 @@ Residential Property Price Index,2023 September,Dublin - houses,147.8
 Residential Property Price Index,2023 September,Dublin - apartments,152.5
 Residential Property Price Index,2023 September,Dublin City - houses,145.8
 Residential Property Price Index,2023 September,Dun Laoghaire-Rathdown - houses,143.2
-Residential Property Price Index,2023 September,Fingal - houses,148.9
-Residential Property Price Index,2023 September,South Dublin - houses,150.7
+Residential Property Price Index,2023 September,Fingal - houses,149.0
+Residential Property Price Index,2023 September,South Dublin - houses,150.9
 Residential Property Price Index,2023 September,National excluding Dublin - all residential properties,193.0
 Residential Property Price Index,2023 September,National excluding Dublin - houses,191.4
 Residential Property Price Index,2023 September,National excluding Dublin - apartments,213.1
-Residential Property Price Index,2023 September,Border - houses,201.0
+Residential Property Price Index,2023 September,Border - houses,200.5
 Residential Property Price Index,2023 September,Midland - houses,209.0
 Residential Property Price Index,2023 September,West - houses,220.9
 Residential Property Price Index,2023 September,Mid-East - houses,173.4
-Residential Property Price Index,2023 September,Mid-West - houses,197.0
-Residential Property Price Index,2023 September,South-East - houses,198.5
+Residential Property Price Index,2023 September,Mid-West - houses,196.8
+Residential Property Price Index,2023 September,South-East - houses,198.6
 Residential Property Price Index,2023 September,South-West - houses,191.6
-Residential Property Price Index,2023 October,National - all residential properties,171.9
-Residential Property Price Index,2023 October,National - houses,172.5
-Residential Property Price Index,2023 October,National - apartments,169.7
-Residential Property Price Index,2023 October,Dublin - all residential properties,149.9
-Residential Property Price Index,2023 October,Dublin - houses,149.7
-Residential Property Price Index,2023 October,Dublin - apartments,152.8
-Residential Property Price Index,2023 October,Dublin City - houses,147.8
-Residential Property Price Index,2023 October,Dun Laoghaire-Rathdown - houses,145.1
-Residential Property Price Index,2023 October,Fingal - houses,150.7
-Residential Property Price Index,2023 October,South Dublin - houses,152.5
-Residential Property Price Index,2023 October,National excluding Dublin - all residential properties,195.0
-Residential Property Price Index,2023 October,National excluding Dublin - houses,193.4
-Residential Property Price Index,2023 October,National excluding Dublin - apartments,215.1
-Residential Property Price Index,2023 October,Border - houses,205.2
-Residential Property Price Index,2023 October,Midland - houses,211.2
-Residential Property Price Index,2023 October,West - houses,225.2
-Residential Property Price Index,2023 October,Mid-East - houses,174.4
-Residential Property Price Index,2023 October,Mid-West - houses,199.2
-Residential Property Price Index,2023 October,South-East - houses,201.1
-Residential Property Price Index,2023 October,South-West - houses,193.1
+Residential Property Price Index,2023 October,National - all residential properties,171.8
+Residential Property Price Index,2023 October,National - houses,172.4
+Residential Property Price Index,2023 October,National - apartments,170.0
+Residential Property Price Index,2023 October,Dublin - all residential properties,150.0
+Residential Property Price Index,2023 October,Dublin - houses,149.8
+Residential Property Price Index,2023 October,Dublin - apartments,153.1
+Residential Property Price Index,2023 October,Dublin City - houses,147.9
+Residential Property Price Index,2023 October,Dun Laoghaire-Rathdown - houses,144.6
+Residential Property Price Index,2023 October,Fingal - houses,151.2
+Residential Property Price Index,2023 October,South Dublin - houses,153.0
+Residential Property Price Index,2023 October,National excluding Dublin - all residential properties,194.8
+Residential Property Price Index,2023 October,National excluding Dublin - houses,193.2
+Residential Property Price Index,2023 October,National excluding Dublin - apartments,215.2
+Residential Property Price Index,2023 October,Border - houses,203.6
+Residential Property Price Index,2023 October,Midland - houses,210.7
+Residential Property Price Index,2023 October,West - houses,225.4
+Residential Property Price Index,2023 October,Mid-East - houses,174.5
+Residential Property Price Index,2023 October,Mid-West - houses,198.9
+Residential Property Price Index,2023 October,South-East - houses,200.5
+Residential Property Price Index,2023 October,South-West - houses,192.9
+Residential Property Price Index,2023 November,National - all residential properties,173.2
+Residential Property Price Index,2023 November,National - houses,173.8
+Residential Property Price Index,2023 November,National - apartments,171.6
+Residential Property Price Index,2023 November,Dublin - all residential properties,151.8
+Residential Property Price Index,2023 November,Dublin - houses,151.7
+Residential Property Price Index,2023 November,Dublin - apartments,154.5
+Residential Property Price Index,2023 November,Dublin City - houses,149.5
+Residential Property Price Index,2023 November,Dun Laoghaire-Rathdown - houses,146.3
+Residential Property Price Index,2023 November,Fingal - houses,153.6
+Residential Property Price Index,2023 November,South Dublin - houses,155.0
+Residential Property Price Index,2023 November,National excluding Dublin - all residential properties,195.8
+Residential Property Price Index,2023 November,National excluding Dublin - houses,194.1
+Residential Property Price Index,2023 November,National excluding Dublin - apartments,217.6
+Residential Property Price Index,2023 November,Border - houses,206.2
+Residential Property Price Index,2023 November,Midland - houses,210.9
+Residential Property Price Index,2023 November,West - houses,228.0
+Residential Property Price Index,2023 November,Mid-East - houses,175.8
+Residential Property Price Index,2023 November,Mid-West - houses,200.7
+Residential Property Price Index,2023 November,South-East - houses,199.0
+Residential Property Price Index,2023 November,South-West - houses,193.1
 Percentage Change over 1 month for Residential Property Price Index,2005 January,National - all residential properties,
 Percentage Change over 1 month for Residential Property Price Index,2005 January,National - houses,
 Percentage Change over 1 month for Residential Property Price Index,2005 January,National - apartments,
@@ -8994,7 +9014,7 @@ Percentage Change over 1 month for Residential Property Price Index,2023 August,
 Percentage Change over 1 month for Residential Property Price Index,2023 August,National excluding Dublin - apartments,1.0
 Percentage Change over 1 month for Residential Property Price Index,2023 August,Border - houses,0.3
 Percentage Change over 1 month for Residential Property Price Index,2023 August,Midland - houses,-0.1
-Percentage Change over 1 month for Residential Property Price Index,2023 August,West - houses,0.5
+Percentage Change over 1 month for Residential Property Price Index,2023 August,West - houses,0.4
 Percentage Change over 1 month for Residential Property Price Index,2023 August,Mid-East - houses,0.4
 Percentage Change over 1 month for Residential Property Price Index,2023 August,Mid-West - houses,0.6
 Percentage Change over 1 month for Residential Property Price Index,2023 August,South-East - houses,-0.1
@@ -9002,43 +9022,63 @@ Percentage Change over 1 month for Residential Property Price Index,2023 August,
 Percentage Change over 1 month for Residential Property Price Index,2023 September,National - all residential properties,0.9
 Percentage Change over 1 month for Residential Property Price Index,2023 September,National - houses,0.9
 Percentage Change over 1 month for Residential Property Price Index,2023 September,National - apartments,1.0
-Percentage Change over 1 month for Residential Property Price Index,2023 September,Dublin - all residential properties,0.9
-Percentage Change over 1 month for Residential Property Price Index,2023 September,Dublin - houses,0.9
+Percentage Change over 1 month for Residential Property Price Index,2023 September,Dublin - all residential properties,1.0
+Percentage Change over 1 month for Residential Property Price Index,2023 September,Dublin - houses,1.0
 Percentage Change over 1 month for Residential Property Price Index,2023 September,Dublin - apartments,0.9
 Percentage Change over 1 month for Residential Property Price Index,2023 September,Dublin City - houses,1.1
-Percentage Change over 1 month for Residential Property Price Index,2023 September,Dun Laoghaire-Rathdown - houses,1.2
-Percentage Change over 1 month for Residential Property Price Index,2023 September,Fingal - houses,0.7
-Percentage Change over 1 month for Residential Property Price Index,2023 September,South Dublin - houses,0.6
+Percentage Change over 1 month for Residential Property Price Index,2023 September,Dun Laoghaire-Rathdown - houses,1.1
+Percentage Change over 1 month for Residential Property Price Index,2023 September,Fingal - houses,0.8
+Percentage Change over 1 month for Residential Property Price Index,2023 September,South Dublin - houses,0.7
 Percentage Change over 1 month for Residential Property Price Index,2023 September,National excluding Dublin - all residential properties,0.9
 Percentage Change over 1 month for Residential Property Price Index,2023 September,National excluding Dublin - houses,0.9
-Percentage Change over 1 month for Residential Property Price Index,2023 September,National excluding Dublin - apartments,1.1
-Percentage Change over 1 month for Residential Property Price Index,2023 September,Border - houses,1.6
+Percentage Change over 1 month for Residential Property Price Index,2023 September,National excluding Dublin - apartments,1.2
+Percentage Change over 1 month for Residential Property Price Index,2023 September,Border - houses,1.4
 Percentage Change over 1 month for Residential Property Price Index,2023 September,Midland - houses,0.6
-Percentage Change over 1 month for Residential Property Price Index,2023 September,West - houses,0.0
-Percentage Change over 1 month for Residential Property Price Index,2023 September,Mid-East - houses,0.6
-Percentage Change over 1 month for Residential Property Price Index,2023 September,Mid-West - houses,0.9
-Percentage Change over 1 month for Residential Property Price Index,2023 September,South-East - houses,0.7
+Percentage Change over 1 month for Residential Property Price Index,2023 September,West - houses,0.1
+Percentage Change over 1 month for Residential Property Price Index,2023 September,Mid-East - houses,0.7
+Percentage Change over 1 month for Residential Property Price Index,2023 September,Mid-West - houses,0.8
+Percentage Change over 1 month for Residential Property Price Index,2023 September,South-East - houses,0.8
 Percentage Change over 1 month for Residential Property Price Index,2023 September,South-West - houses,1.7
-Percentage Change over 1 month for Residential Property Price Index,2023 October,National - all residential properties,1.1
+Percentage Change over 1 month for Residential Property Price Index,2023 October,National - all residential properties,1.0
 Percentage Change over 1 month for Residential Property Price Index,2023 October,National - houses,1.1
-Percentage Change over 1 month for Residential Property Price Index,2023 October,National - apartments,0.4
+Percentage Change over 1 month for Residential Property Price Index,2023 October,National - apartments,0.6
 Percentage Change over 1 month for Residential Property Price Index,2023 October,Dublin - all residential properties,1.1
 Percentage Change over 1 month for Residential Property Price Index,2023 October,Dublin - houses,1.3
-Percentage Change over 1 month for Residential Property Price Index,2023 October,Dublin - apartments,0.2
+Percentage Change over 1 month for Residential Property Price Index,2023 October,Dublin - apartments,0.4
 Percentage Change over 1 month for Residential Property Price Index,2023 October,Dublin City - houses,1.4
-Percentage Change over 1 month for Residential Property Price Index,2023 October,Dun Laoghaire-Rathdown - houses,1.3
-Percentage Change over 1 month for Residential Property Price Index,2023 October,Fingal - houses,1.2
-Percentage Change over 1 month for Residential Property Price Index,2023 October,South Dublin - houses,1.1
-Percentage Change over 1 month for Residential Property Price Index,2023 October,National excluding Dublin - all residential properties,1.0
-Percentage Change over 1 month for Residential Property Price Index,2023 October,National excluding Dublin - houses,1.1
-Percentage Change over 1 month for Residential Property Price Index,2023 October,National excluding Dublin - apartments,0.9
-Percentage Change over 1 month for Residential Property Price Index,2023 October,Border - houses,2.1
-Percentage Change over 1 month for Residential Property Price Index,2023 October,Midland - houses,1.0
-Percentage Change over 1 month for Residential Property Price Index,2023 October,West - houses,1.9
+Percentage Change over 1 month for Residential Property Price Index,2023 October,Dun Laoghaire-Rathdown - houses,1.0
+Percentage Change over 1 month for Residential Property Price Index,2023 October,Fingal - houses,1.4
+Percentage Change over 1 month for Residential Property Price Index,2023 October,South Dublin - houses,1.3
+Percentage Change over 1 month for Residential Property Price Index,2023 October,National excluding Dublin - all residential properties,0.9
+Percentage Change over 1 month for Residential Property Price Index,2023 October,National excluding Dublin - houses,0.9
+Percentage Change over 1 month for Residential Property Price Index,2023 October,National excluding Dublin - apartments,1.0
+Percentage Change over 1 month for Residential Property Price Index,2023 October,Border - houses,1.5
+Percentage Change over 1 month for Residential Property Price Index,2023 October,Midland - houses,0.8
+Percentage Change over 1 month for Residential Property Price Index,2023 October,West - houses,2.0
 Percentage Change over 1 month for Residential Property Price Index,2023 October,Mid-East - houses,0.6
 Percentage Change over 1 month for Residential Property Price Index,2023 October,Mid-West - houses,1.1
-Percentage Change over 1 month for Residential Property Price Index,2023 October,South-East - houses,1.3
+Percentage Change over 1 month for Residential Property Price Index,2023 October,South-East - houses,1.0
 Percentage Change over 1 month for Residential Property Price Index,2023 October,South-West - houses,0.7
+Percentage Change over 1 month for Residential Property Price Index,2023 November,National - all residential properties,0.8
+Percentage Change over 1 month for Residential Property Price Index,2023 November,National - houses,0.8
+Percentage Change over 1 month for Residential Property Price Index,2023 November,National - apartments,0.9
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Dublin - all residential properties,1.2
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Dublin - houses,1.3
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Dublin - apartments,0.9
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Dublin City - houses,1.1
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Dun Laoghaire-Rathdown - houses,1.2
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Fingal - houses,1.6
+Percentage Change over 1 month for Residential Property Price Index,2023 November,South Dublin - houses,1.3
+Percentage Change over 1 month for Residential Property Price Index,2023 November,National excluding Dublin - all residential properties,0.5
+Percentage Change over 1 month for Residential Property Price Index,2023 November,National excluding Dublin - houses,0.5
+Percentage Change over 1 month for Residential Property Price Index,2023 November,National excluding Dublin - apartments,1.1
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Border - houses,1.3
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Midland - houses,0.1
+Percentage Change over 1 month for Residential Property Price Index,2023 November,West - houses,1.2
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Mid-East - houses,0.7
+Percentage Change over 1 month for Residential Property Price Index,2023 November,Mid-West - houses,0.9
+Percentage Change over 1 month for Residential Property Price Index,2023 November,South-East - houses,-0.7
+Percentage Change over 1 month for Residential Property Price Index,2023 November,South-West - houses,0.1
 Percentage Change over 3 months for Residential Property Price Index,2005 January,National - all residential properties,
 Percentage Change over 3 months for Residential Property Price Index,2005 January,National - houses,
 Percentage Change over 3 months for Residential Property Price Index,2005 January,National - apartments,
@@ -13514,7 +13554,7 @@ Percentage Change over 3 months for Residential Property Price Index,2023 August
 Percentage Change over 3 months for Residential Property Price Index,2023 August,National excluding Dublin - apartments,1.7
 Percentage Change over 3 months for Residential Property Price Index,2023 August,Border - houses,-0.7
 Percentage Change over 3 months for Residential Property Price Index,2023 August,Midland - houses,0.1
-Percentage Change over 3 months for Residential Property Price Index,2023 August,West - houses,1.8
+Percentage Change over 3 months for Residential Property Price Index,2023 August,West - houses,1.7
 Percentage Change over 3 months for Residential Property Price Index,2023 August,Mid-East - houses,1.0
 Percentage Change over 3 months for Residential Property Price Index,2023 August,Mid-West - houses,3.9
 Percentage Change over 3 months for Residential Property Price Index,2023 August,South-East - houses,2.9
@@ -13524,41 +13564,61 @@ Percentage Change over 3 months for Residential Property Price Index,2023 Septem
 Percentage Change over 3 months for Residential Property Price Index,2023 September,National - apartments,2.2
 Percentage Change over 3 months for Residential Property Price Index,2023 September,Dublin - all residential properties,2.0
 Percentage Change over 3 months for Residential Property Price Index,2023 September,Dublin - houses,2.0
-Percentage Change over 3 months for Residential Property Price Index,2023 September,Dublin - apartments,2.1
+Percentage Change over 3 months for Residential Property Price Index,2023 September,Dublin - apartments,2.2
 Percentage Change over 3 months for Residential Property Price Index,2023 September,Dublin City - houses,2.7
-Percentage Change over 3 months for Residential Property Price Index,2023 September,Dun Laoghaire-Rathdown - houses,2.3
-Percentage Change over 3 months for Residential Property Price Index,2023 September,Fingal - houses,1.0
-Percentage Change over 3 months for Residential Property Price Index,2023 September,South Dublin - houses,1.4
+Percentage Change over 3 months for Residential Property Price Index,2023 September,Dun Laoghaire-Rathdown - houses,2.2
+Percentage Change over 3 months for Residential Property Price Index,2023 September,Fingal - houses,1.1
+Percentage Change over 3 months for Residential Property Price Index,2023 September,South Dublin - houses,1.5
 Percentage Change over 3 months for Residential Property Price Index,2023 September,National excluding Dublin - all residential properties,1.9
 Percentage Change over 3 months for Residential Property Price Index,2023 September,National excluding Dublin - houses,1.8
 Percentage Change over 3 months for Residential Property Price Index,2023 September,National excluding Dublin - apartments,2.4
-Percentage Change over 3 months for Residential Property Price Index,2023 September,Border - houses,1.6
+Percentage Change over 3 months for Residential Property Price Index,2023 September,Border - houses,1.4
 Percentage Change over 3 months for Residential Property Price Index,2023 September,Midland - houses,0.9
 Percentage Change over 3 months for Residential Property Price Index,2023 September,West - houses,1.4
 Percentage Change over 3 months for Residential Property Price Index,2023 September,Mid-East - houses,1.0
-Percentage Change over 3 months for Residential Property Price Index,2023 September,Mid-West - houses,3.3
+Percentage Change over 3 months for Residential Property Price Index,2023 September,Mid-West - houses,3.2
 Percentage Change over 3 months for Residential Property Price Index,2023 September,South-East - houses,1.9
 Percentage Change over 3 months for Residential Property Price Index,2023 September,South-West - houses,3.0
-Percentage Change over 3 months for Residential Property Price Index,2023 October,National - all residential properties,2.5
-Percentage Change over 3 months for Residential Property Price Index,2023 October,National - houses,2.5
-Percentage Change over 3 months for Residential Property Price Index,2023 October,National - apartments,2.3
-Percentage Change over 3 months for Residential Property Price Index,2023 October,Dublin - all residential properties,2.7
-Percentage Change over 3 months for Residential Property Price Index,2023 October,Dublin - houses,2.9
-Percentage Change over 3 months for Residential Property Price Index,2023 October,Dublin - apartments,1.9
+Percentage Change over 3 months for Residential Property Price Index,2023 October,National - all residential properties,2.4
+Percentage Change over 3 months for Residential Property Price Index,2023 October,National - houses,2.4
+Percentage Change over 3 months for Residential Property Price Index,2023 October,National - apartments,2.5
+Percentage Change over 3 months for Residential Property Price Index,2023 October,Dublin - all residential properties,2.8
+Percentage Change over 3 months for Residential Property Price Index,2023 October,Dublin - houses,3.0
+Percentage Change over 3 months for Residential Property Price Index,2023 October,Dublin - apartments,2.1
 Percentage Change over 3 months for Residential Property Price Index,2023 October,Dublin City - houses,3.4
-Percentage Change over 3 months for Residential Property Price Index,2023 October,Dun Laoghaire-Rathdown - houses,2.6
-Percentage Change over 3 months for Residential Property Price Index,2023 October,Fingal - houses,2.8
-Percentage Change over 3 months for Residential Property Price Index,2023 October,South Dublin - houses,2.6
-Percentage Change over 3 months for Residential Property Price Index,2023 October,National excluding Dublin - all residential properties,2.3
-Percentage Change over 3 months for Residential Property Price Index,2023 October,National excluding Dublin - houses,2.2
-Percentage Change over 3 months for Residential Property Price Index,2023 October,National excluding Dublin - apartments,3.1
-Percentage Change over 3 months for Residential Property Price Index,2023 October,Border - houses,4.0
-Percentage Change over 3 months for Residential Property Price Index,2023 October,Midland - houses,1.6
-Percentage Change over 3 months for Residential Property Price Index,2023 October,West - houses,2.5
+Percentage Change over 3 months for Residential Property Price Index,2023 October,Dun Laoghaire-Rathdown - houses,2.3
+Percentage Change over 3 months for Residential Property Price Index,2023 October,Fingal - houses,3.1
+Percentage Change over 3 months for Residential Property Price Index,2023 October,South Dublin - houses,3.0
+Percentage Change over 3 months for Residential Property Price Index,2023 October,National excluding Dublin - all residential properties,2.2
+Percentage Change over 3 months for Residential Property Price Index,2023 October,National excluding Dublin - houses,2.1
+Percentage Change over 3 months for Residential Property Price Index,2023 October,National excluding Dublin - apartments,3.2
+Percentage Change over 3 months for Residential Property Price Index,2023 October,Border - houses,3.2
+Percentage Change over 3 months for Residential Property Price Index,2023 October,Midland - houses,1.3
+Percentage Change over 3 months for Residential Property Price Index,2023 October,West - houses,2.6
 Percentage Change over 3 months for Residential Property Price Index,2023 October,Mid-East - houses,1.6
-Percentage Change over 3 months for Residential Property Price Index,2023 October,Mid-West - houses,2.7
-Percentage Change over 3 months for Residential Property Price Index,2023 October,South-East - houses,1.9
-Percentage Change over 3 months for Residential Property Price Index,2023 October,South-West - houses,2.6
+Percentage Change over 3 months for Residential Property Price Index,2023 October,Mid-West - houses,2.5
+Percentage Change over 3 months for Residential Property Price Index,2023 October,South-East - houses,1.6
+Percentage Change over 3 months for Residential Property Price Index,2023 October,South-West - houses,2.5
+Percentage Change over 3 months for Residential Property Price Index,2023 November,National - all residential properties,2.8
+Percentage Change over 3 months for Residential Property Price Index,2023 November,National - houses,2.8
+Percentage Change over 3 months for Residential Property Price Index,2023 November,National - apartments,2.6
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Dublin - all residential properties,3.3
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Dublin - houses,3.6
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Dublin - apartments,2.2
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Dublin City - houses,3.6
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Dun Laoghaire-Rathdown - houses,3.4
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Fingal - houses,3.9
+Percentage Change over 3 months for Residential Property Price Index,2023 November,South Dublin - houses,3.4
+Percentage Change over 3 months for Residential Property Price Index,2023 November,National excluding Dublin - all residential properties,2.4
+Percentage Change over 3 months for Residential Property Price Index,2023 November,National excluding Dublin - houses,2.3
+Percentage Change over 3 months for Residential Property Price Index,2023 November,National excluding Dublin - apartments,3.3
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Border - houses,4.2
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Midland - houses,1.5
+Percentage Change over 3 months for Residential Property Price Index,2023 November,West - houses,3.3
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Mid-East - houses,2.0
+Percentage Change over 3 months for Residential Property Price Index,2023 November,Mid-West - houses,2.8
+Percentage Change over 3 months for Residential Property Price Index,2023 November,South-East - houses,1.0
+Percentage Change over 3 months for Residential Property Price Index,2023 November,South-West - houses,2.5
 Percentage Change over 12 months for Residential Property Price Index,2005 January,National - all residential properties,
 Percentage Change over 12 months for Residential Property Price Index,2005 January,National - houses,
 Percentage Change over 12 months for Residential Property Price Index,2005 January,National - apartments,
@@ -18026,15 +18086,15 @@ Percentage Change over 12 months for Residential Property Price Index,2023 Augus
 Percentage Change over 12 months for Residential Property Price Index,2023 August,Dublin - houses,-2.2
 Percentage Change over 12 months for Residential Property Price Index,2023 August,Dublin - apartments,-0.2
 Percentage Change over 12 months for Residential Property Price Index,2023 August,Dublin City - houses,-3.7
-Percentage Change over 12 months for Residential Property Price Index,2023 August,Dun Laoghaire-Rathdown - houses,-3.9
+Percentage Change over 12 months for Residential Property Price Index,2023 August,Dun Laoghaire-Rathdown - houses,-4.0
 Percentage Change over 12 months for Residential Property Price Index,2023 August,Fingal - houses,0.7
 Percentage Change over 12 months for Residential Property Price Index,2023 August,South Dublin - houses,0.3
 Percentage Change over 12 months for Residential Property Price Index,2023 August,National excluding Dublin - all residential properties,3.3
 Percentage Change over 12 months for Residential Property Price Index,2023 August,National excluding Dublin - houses,3.4
-Percentage Change over 12 months for Residential Property Price Index,2023 August,National excluding Dublin - apartments,2.2
+Percentage Change over 12 months for Residential Property Price Index,2023 August,National excluding Dublin - apartments,2.1
 Percentage Change over 12 months for Residential Property Price Index,2023 August,Border - houses,2.6
 Percentage Change over 12 months for Residential Property Price Index,2023 August,Midland - houses,1.9
-Percentage Change over 12 months for Residential Property Price Index,2023 August,West - houses,2.5
+Percentage Change over 12 months for Residential Property Price Index,2023 August,West - houses,2.4
 Percentage Change over 12 months for Residential Property Price Index,2023 August,Mid-East - houses,3.3
 Percentage Change over 12 months for Residential Property Price Index,2023 August,Mid-West - houses,4.1
 Percentage Change over 12 months for Residential Property Price Index,2023 August,South-East - houses,3.3
@@ -18044,38 +18104,58 @@ Percentage Change over 12 months for Residential Property Price Index,2023 Septe
 Percentage Change over 12 months for Residential Property Price Index,2023 September,National - apartments,1.8
 Percentage Change over 12 months for Residential Property Price Index,2023 September,Dublin - all residential properties,-1.7
 Percentage Change over 12 months for Residential Property Price Index,2023 September,Dublin - houses,-2.2
-Percentage Change over 12 months for Residential Property Price Index,2023 September,Dublin - apartments,0.4
+Percentage Change over 12 months for Residential Property Price Index,2023 September,Dublin - apartments,0.5
 Percentage Change over 12 months for Residential Property Price Index,2023 September,Dublin City - houses,-3.4
 Percentage Change over 12 months for Residential Property Price Index,2023 September,Dun Laoghaire-Rathdown - houses,-3.5
-Percentage Change over 12 months for Residential Property Price Index,2023 September,Fingal - houses,0.1
-Percentage Change over 12 months for Residential Property Price Index,2023 September,South Dublin - houses,-0.5
+Percentage Change over 12 months for Residential Property Price Index,2023 September,Fingal - houses,0.2
+Percentage Change over 12 months for Residential Property Price Index,2023 September,South Dublin - houses,-0.4
 Percentage Change over 12 months for Residential Property Price Index,2023 September,National excluding Dublin - all residential properties,3.9
-Percentage Change over 12 months for Residential Property Price Index,2023 September,National excluding Dublin - houses,3.9
+Percentage Change over 12 months for Residential Property Price Index,2023 September,National excluding Dublin - houses,3.8
 Percentage Change over 12 months for Residential Property Price Index,2023 September,National excluding Dublin - apartments,4.5
-Percentage Change over 12 months for Residential Property Price Index,2023 September,Border - houses,3.7
+Percentage Change over 12 months for Residential Property Price Index,2023 September,Border - houses,3.4
 Percentage Change over 12 months for Residential Property Price Index,2023 September,Midland - houses,2.5
 Percentage Change over 12 months for Residential Property Price Index,2023 September,West - houses,2.0
 Percentage Change over 12 months for Residential Property Price Index,2023 September,Mid-East - houses,3.6
-Percentage Change over 12 months for Residential Property Price Index,2023 September,Mid-West - houses,4.6
-Percentage Change over 12 months for Residential Property Price Index,2023 September,South-East - houses,3.9
+Percentage Change over 12 months for Residential Property Price Index,2023 September,Mid-West - houses,4.5
+Percentage Change over 12 months for Residential Property Price Index,2023 September,South-East - houses,4.0
 Percentage Change over 12 months for Residential Property Price Index,2023 September,South-West - houses,5.2
-Percentage Change over 12 months for Residential Property Price Index,2023 October,National - all residential properties,2.3
-Percentage Change over 12 months for Residential Property Price Index,2023 October,National - houses,2.4
-Percentage Change over 12 months for Residential Property Price Index,2023 October,National - apartments,1.4
-Percentage Change over 12 months for Residential Property Price Index,2023 October,Dublin - all residential properties,-0.6
-Percentage Change over 12 months for Residential Property Price Index,2023 October,Dublin - houses,-0.7
-Percentage Change over 12 months for Residential Property Price Index,2023 October,Dublin - apartments,-0.4
+Percentage Change over 12 months for Residential Property Price Index,2023 October,National - all residential properties,2.2
+Percentage Change over 12 months for Residential Property Price Index,2023 October,National - houses,2.3
+Percentage Change over 12 months for Residential Property Price Index,2023 October,National - apartments,1.5
+Percentage Change over 12 months for Residential Property Price Index,2023 October,Dublin - all residential properties,-0.5
+Percentage Change over 12 months for Residential Property Price Index,2023 October,Dublin - houses,-0.6
+Percentage Change over 12 months for Residential Property Price Index,2023 October,Dublin - apartments,-0.2
 Percentage Change over 12 months for Residential Property Price Index,2023 October,Dublin City - houses,-1.0
-Percentage Change over 12 months for Residential Property Price Index,2023 October,Dun Laoghaire-Rathdown - houses,-1.5
-Percentage Change over 12 months for Residential Property Price Index,2023 October,Fingal - houses,0.8
-Percentage Change over 12 months for Residential Property Price Index,2023 October,South Dublin - houses,-0.3
-Percentage Change over 12 months for Residential Property Price Index,2023 October,National excluding Dublin - all residential properties,4.5
-Percentage Change over 12 months for Residential Property Price Index,2023 October,National excluding Dublin - houses,4.5
-Percentage Change over 12 months for Residential Property Price Index,2023 October,National excluding Dublin - apartments,5.0
-Percentage Change over 12 months for Residential Property Price Index,2023 October,Border - houses,5.9
-Percentage Change over 12 months for Residential Property Price Index,2023 October,Midland - houses,3.8
-Percentage Change over 12 months for Residential Property Price Index,2023 October,West - houses,3.5
+Percentage Change over 12 months for Residential Property Price Index,2023 October,Dun Laoghaire-Rathdown - houses,-1.8
+Percentage Change over 12 months for Residential Property Price Index,2023 October,Fingal - houses,1.1
+Percentage Change over 12 months for Residential Property Price Index,2023 October,South Dublin - houses,0.0
+Percentage Change over 12 months for Residential Property Price Index,2023 October,National excluding Dublin - all residential properties,4.4
+Percentage Change over 12 months for Residential Property Price Index,2023 October,National excluding Dublin - houses,4.3
+Percentage Change over 12 months for Residential Property Price Index,2023 October,National excluding Dublin - apartments,5.1
+Percentage Change over 12 months for Residential Property Price Index,2023 October,Border - houses,5.1
+Percentage Change over 12 months for Residential Property Price Index,2023 October,Midland - houses,3.5
+Percentage Change over 12 months for Residential Property Price Index,2023 October,West - houses,3.6
 Percentage Change over 12 months for Residential Property Price Index,2023 October,Mid-East - houses,3.5
-Percentage Change over 12 months for Residential Property Price Index,2023 October,Mid-West - houses,6.2
-Percentage Change over 12 months for Residential Property Price Index,2023 October,South-East - houses,5.3
-Percentage Change over 12 months for Residential Property Price Index,2023 October,South-West - houses,4.8
+Percentage Change over 12 months for Residential Property Price Index,2023 October,Mid-West - houses,6.1
+Percentage Change over 12 months for Residential Property Price Index,2023 October,South-East - houses,5.0
+Percentage Change over 12 months for Residential Property Price Index,2023 October,South-West - houses,4.7
+Percentage Change over 12 months for Residential Property Price Index,2023 November,National - all residential properties,2.9
+Percentage Change over 12 months for Residential Property Price Index,2023 November,National - houses,2.9
+Percentage Change over 12 months for Residential Property Price Index,2023 November,National - apartments,2.7
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Dublin - all residential properties,0.9
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Dublin - houses,1.0
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Dublin - apartments,0.6
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Dublin City - houses,0.7
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Dun Laoghaire-Rathdown - houses,-0.1
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Fingal - houses,2.5
+Percentage Change over 12 months for Residential Property Price Index,2023 November,South Dublin - houses,1.0
+Percentage Change over 12 months for Residential Property Price Index,2023 November,National excluding Dublin - all residential properties,4.4
+Percentage Change over 12 months for Residential Property Price Index,2023 November,National excluding Dublin - houses,4.2
+Percentage Change over 12 months for Residential Property Price Index,2023 November,National excluding Dublin - apartments,7.2
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Border - houses,4.7
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Midland - houses,3.3
+Percentage Change over 12 months for Residential Property Price Index,2023 November,West - houses,4.1
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Mid-East - houses,3.3
+Percentage Change over 12 months for Residential Property Price Index,2023 November,Mid-West - houses,7.4
+Percentage Change over 12 months for Residential Property Price Index,2023 November,South-East - houses,4.1
+Percentage Change over 12 months for Residential Property Price Index,2023 November,South-West - houses,4.1
