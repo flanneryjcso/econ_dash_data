@@ -1,9 +1,7 @@
 import pandas as pd
 import os
 import subprocess
-
-# The tables needed from PxStat along with the relevant columns.
-# Trying this again with a new PAT.
+import smtplib
 
 pxstat_codes_dict = {'naq04': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
                      'nqi01': ['Statistic Label', 'Quarter', 'Sectors', 'VALUE'],
@@ -34,6 +32,8 @@ pxstat_codes_dict = {'naq04': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
 for table, labels in pxstat_codes_dict.items():
     data = pd.read_csv(f"https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/{table}/CSV/1.0/en")
     try:
+        if table == 'naq04':
+            raise Exception("Test Error: Simulating an error in data processing for table naq04")
         data = data[labels]
         if 'Statistic Label' in data.columns:
             data.rename(columns = {'Statistic Label': 'Statistic', 'VALUE': 'value'}, inplace = True)
@@ -43,6 +43,17 @@ for table, labels in pxstat_codes_dict.items():
         data.to_csv(f'/home/flanneryj/econ_dash/{table}.csv', index = False)
     except Exception as e:
         print(f"An error occured while processing table {table}: {e}")
+        my_email = os.environ.get("MY_EMAIL")
+        password = os.environ.get("EMAIL_PASSWORD")
+
+        with smtplib.SMTP("smtp.gmail.com", port = 587) as connection:
+            connection.starttls()
+            connection.login(user = my_email, password = password)
+            connection.sendmail(
+                from_addr = my_email,
+                to_addrs = 'justin.flannery@cso.ie',
+                msg = f"Subject:econ_dash_data error\n\n An error occured while processing table {table}: {e}")
+
         continue
 
 def git_push():
