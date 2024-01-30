@@ -2,6 +2,10 @@ import pandas as pd
 import os
 import subprocess
 import smtplib
+import json
+
+my_email = os.environ.get("MY_EMAIL")
+password = os.environ.get("EMAIL_PASSWORD")
 
 pxstat_codes_dict = {'naq04': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
                      'nqi01': ['Statistic Label', 'Quarter', 'Sectors', 'VALUE'],
@@ -29,6 +33,8 @@ pxstat_codes_dict = {'naq04': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
                      'tem01': ['STATISTIC Label', 'Month', 'Taxation Class', 'VALUE'],
                      'naq05': ['Statistic Label', 'Quarter', 'Sector', 'VALUE']}
 
+new_dict = {}
+
 for table, labels in pxstat_codes_dict.items():
     data = pd.read_csv(f"https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/{table}/CSV/1.0/en")
     try:
@@ -38,11 +44,10 @@ for table, labels in pxstat_codes_dict.items():
         elif 'STATISTIC Label' in data.columns:
             data.rename(columns = {'STATISTIC Label': 'Statistic', 'VALUE': 'value'}, inplace = True)
         data.columns = [col.replace(' ', '.') for col in data.columns]
+        new_dict[table] = data
         data.to_csv(f'/home/flanneryj/econ_dash/{table}.csv', index = False)
     except Exception as e:
         print(f"An error occured while processing table {table}: {e}")
-        my_email = os.environ.get("MY_EMAIL")
-        password = os.environ.get("EMAIL_PASSWORD")
 
         with smtplib.SMTP("smtp.gmail.com", port = 587) as connection:
             connection.starttls()
@@ -53,6 +58,47 @@ for table, labels in pxstat_codes_dict.items():
                 msg = f"Subject:econ_dash_data error\n\n An error occured while processing table {table}: {e}")
 
         continue
+
+# Check whether there are any changes to the table strings
+final_dict = {}
+
+for table, labels in new_dict.items():
+    string_columns = labels.select_dtypes(include = ['object'])
+    string_columns = string_columns.loc[:, ~(string_columns.columns.isin(['Month', 'Quarter', 'value', 'Value']))]
+    tables_string_dict = {}
+    for column in string_columns:
+        tables_string_dict[column] = string_columns[column].unique().tolist()
+    final_dict[table] = tables_string_dict
+
+with open('econ_dash_dict.json', 'r') as json_file:
+    old_dict = json.load(json_file)
+
+def compare_dictionaries(dict1, dict2):
+    if set(dict1.keys()) != set(dict2.keys()):
+        return False, "Different tables"
+    for table in dict1:
+        if set(dict1[table].keys()) != set(dict2[table].keys()):
+            return False, f"Different columns in table {table}"
+
+        for column in dict1[table]:
+            if set(dict1[table][column]) != set(dict2[table][column]):
+                return False, f"Different values in column {column} of table {table}"
+
+    return True, "Dictionaries are the same"
+
+check_dicts = compare_dictionaries(final_dict, old_dict)
+print(check_dicts)
+check_dicts = (False, "Different tables")
+
+if check_dicts[0] == False:
+    with smtplib.SMTP("smtp.gmail.com", port = 587) as connection:
+        connection.starttls()
+        connection.login(user = my_email, password = password)
+        connection.sendmail(
+            from_addr = my_email,
+            to_addrs = 'justin.flannery@cso.ie',
+            msg = f"Subject:econ_dash_data changes\n\n {check_dicts[1]}")
+
 
 def git_push():
     project_path = '/home/flanneryj/econ_dash'
