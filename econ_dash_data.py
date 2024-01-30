@@ -32,8 +32,6 @@ pxstat_codes_dict = {'naq04': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
 for table, labels in pxstat_codes_dict.items():
     data = pd.read_csv(f"https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/{table}/CSV/1.0/en")
     try:
-        if table == 'naq04':
-            raise Exception("Test Error: Simulating an error in data processing for table naq04")
         data = data[labels]
         if 'Statistic Label' in data.columns:
             data.rename(columns = {'Statistic Label': 'Statistic', 'VALUE': 'value'}, inplace = True)
