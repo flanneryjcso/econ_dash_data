@@ -59,6 +59,7 @@ for table, labels in pxstat_codes_dict.items():
 
         continue
 
+
 # Check whether there are any changes to the table strings
 final_dict = {}
 
@@ -70,7 +71,8 @@ for table, labels in new_dict.items():
         tables_string_dict[column] = string_columns[column].unique().tolist()
     final_dict[table] = tables_string_dict
 
-with open('econ_dash_dict.json', 'r') as json_file:
+
+with open('/home/flanneryj/econ_dash/econ_dash_dict.json', 'r') as json_file:
     old_dict = json.load(json_file)
 
 def compare_dictionaries(dict1, dict2):
@@ -88,7 +90,6 @@ def compare_dictionaries(dict1, dict2):
 
 check_dicts = compare_dictionaries(final_dict, old_dict)
 print(check_dicts)
-check_dicts = (False, "Different tables")
 
 if check_dicts[0] == False:
     with smtplib.SMTP("smtp.gmail.com", port = 587) as connection:
