@@ -33,7 +33,10 @@ pxstat_codes_dict = {'naq04': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
                      'tem01': ['STATISTIC Label', 'Month', 'Taxation Class', 'VALUE'],
                      'naq05': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
                      'na001': ['Statistic Label', 'Year', 'Item', 'VALUE'],
-                     'na002': ['Statistic Label', 'Year', 'Item', 'VALUE']}
+                     'na002': ['Statistic Label', 'Year', 'Item', 'VALUE'],
+                     'isq01': ['STATISTIC Label', 'Quarter', 'Current Account', 'Institutional Sector', 'Uses and Resources', 'VALUE'],
+                     'isq03': ['STATISTIC Label', 'Quarter', 'Current Account', 'Institutional Sector', 'Accounting Entry', 'VALUE'],
+                     'qlf18': ['Statistic Label', 'Quarter', 'Age Group', 'Sex', 'VALUE']}
 
 new_dict = {}
 
