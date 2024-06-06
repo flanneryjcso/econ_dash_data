@@ -671,6 +671,18 @@ Compensation of Employees at Constant Prices,2023Q4,"Professional, Admin and Sup
 Compensation of Employees at Constant Prices,2023Q4,"Public Admin, Education and Health",9064.0864349
 Compensation of Employees at Constant Prices,2023Q4,"Arts, Entertainment and Other Services",641.6263607
 Compensation of Employees at Constant Prices,2023Q4,All Sectors,30671.1913909
+Compensation of Employees at Constant Prices,2024Q1,"Agriculture, Forestry and Fishing",213.9569318
+Compensation of Employees at Constant Prices,2024Q1,Industry (excl. Construction),4411.6523646
+Compensation of Employees at Constant Prices,2024Q1,Industry - of which Manufacturing,3862.5276179
+Compensation of Employees at Constant Prices,2024Q1,Construction,1475.6952408
+Compensation of Employees at Constant Prices,2024Q1,"Distribution, Transport, Hotels and Restaurants",5859.6826858
+Compensation of Employees at Constant Prices,2024Q1,Information and Communication,2936.1836178
+Compensation of Employees at Constant Prices,2024Q1,Financial and Insurance Activities,2570.0239762
+Compensation of Employees at Constant Prices,2024Q1,Real Estate Activities,220.2980002
+Compensation of Employees at Constant Prices,2024Q1,"Professional, Admin and Support Services",4684.6319509
+Compensation of Employees at Constant Prices,2024Q1,"Public Admin, Education and Health",9118.3282634
+Compensation of Employees at Constant Prices,2024Q1,"Arts, Entertainment and Other Services",636.6251999
+Compensation of Employees at Constant Prices,2024Q1,All Sectors,32127.0782315
 Compensation of Employees at Constant Prices (Seasonally Adjusted),2010Q1,"Agriculture, Forestry and Fishing",176.5400087
 Compensation of Employees at Constant Prices (Seasonally Adjusted),2010Q1,Industry (excl. Construction),3078.5218236
 Compensation of Employees at Constant Prices (Seasonally Adjusted),2010Q1,Industry - of which Manufacturing,2682.8107199
@@ -1295,51 +1307,63 @@ Compensation of Employees at Constant Prices (Seasonally Adjusted),2022Q4,"Profe
 Compensation of Employees at Constant Prices (Seasonally Adjusted),2022Q4,"Public Admin, Education and Health",8503.7015167
 Compensation of Employees at Constant Prices (Seasonally Adjusted),2022Q4,"Arts, Entertainment and Other Services",572.5099647
 Compensation of Employees at Constant Prices (Seasonally Adjusted),2022Q4,All Sectors,30478.279974
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Agriculture, Forestry and Fishing",193.8014448
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Industry (excl. Construction),4380.7392087
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Industry - of which Manufacturing,3911.5223793
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Construction,1458.3974893
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Distribution, Transport, Hotels and Restaurants",5590.9243077
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Information and Communication,3040.0718723
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Financial and Insurance Activities,2466.5648333
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Real Estate Activities,243.7955027
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Professional, Admin and Support Services",4214.0581815
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Public Admin, Education and Health",8724.1096575
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Arts, Entertainment and Other Services",624.4731289
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,All Sectors,30936.935627
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Agriculture, Forestry and Fishing",177.9240811
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Industry (excl. Construction),4140.8947508
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Industry - of which Manufacturing,3683.3155763
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Construction,1579.7086015
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Distribution, Transport, Hotels and Restaurants",5799.2528384
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Information and Communication,3148.3863337
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Financial and Insurance Activities,2471.4693864
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Real Estate Activities,155.0190387
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Professional, Admin and Support Services",4394.9446639
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Public Admin, Education and Health",8721.8999286
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Arts, Entertainment and Other Services",646.8003233
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,All Sectors,31236.299946
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Agriculture, Forestry and Fishing",262.207682
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Industry (excl. Construction),4041.8383507
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Industry - of which Manufacturing,3576.9732443
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Construction,1462.5720903
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Distribution, Transport, Hotels and Restaurants",5744.1502521
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Information and Communication,3244.7624962
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Financial and Insurance Activities,2491.0013755
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Real Estate Activities,199.8987341
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Professional, Admin and Support Services",4315.2394776
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Public Admin, Education and Health",8852.5666945
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Arts, Entertainment and Other Services",618.3408505
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,All Sectors,31232.578004
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Agriculture, Forestry and Fishing",210.8599001
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Industry (excl. Construction),3912.8261446
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Industry - of which Manufacturing,3440.2883536
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Construction,1406.2030732
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Distribution, Transport, Hotels and Restaurants",6011.8332168
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Information and Communication,2837.6832439
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Financial and Insurance Activities,2429.7347892
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Real Estate Activities,201.3413492
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Professional, Admin and Support Services",4445.6648216
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Public Admin, Education and Health",8952.2697843
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Arts, Entertainment and Other Services",634.5964219
-Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,All Sectors,31043.012745
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Agriculture, Forestry and Fishing",192.5497368
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Industry (excl. Construction),4357.6620155
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Industry - of which Manufacturing,3884.8543006
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Construction,1451.2749863
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Distribution, Transport, Hotels and Restaurants",5599.9471317
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Information and Communication,3074.6411619
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Financial and Insurance Activities,2464.6253304
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,Real Estate Activities,244.857645
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Professional, Admin and Support Services",4189.7475222
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Public Admin, Education and Health",8725.6038902
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,"Arts, Entertainment and Other Services",624.7706459
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q1,All Sectors,30925.680066
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Agriculture, Forestry and Fishing",178.2354262
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Industry (excl. Construction),4153.7036719
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Industry - of which Manufacturing,3686.4942951
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Construction,1579.7939666
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Distribution, Transport, Hotels and Restaurants",5795.6698726
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Information and Communication,3145.98497
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Financial and Insurance Activities,2471.8931695
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,Real Estate Activities,155.2333205
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Professional, Admin and Support Services",4392.3150588
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Public Admin, Education and Health",8722.8082147
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,"Arts, Entertainment and Other Services",648.383394
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q2,All Sectors,31244.021065
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Agriculture, Forestry and Fishing",261.1338389
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Industry (excl. Construction),4088.0465692
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Industry - of which Manufacturing,3595.9113347
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Construction,1469.7927404
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Distribution, Transport, Hotels and Restaurants",5738.5151741
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Information and Communication,3160.2390968
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Financial and Insurance Activities,2488.816404
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,Real Estate Activities,200.3303635
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Professional, Admin and Support Services",4329.8989646
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Public Admin, Education and Health",8854.8956487
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,"Arts, Entertainment and Other Services",616.7215164
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q3,All Sectors,31208.390317
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Agriculture, Forestry and Fishing",213.2704833
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Industry (excl. Construction),3876.48682
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Industry - of which Manufacturing,3448.6829118
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Construction,1405.9432477
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Distribution, Transport, Hotels and Restaurants",6010.0406874
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Information and Communication,2883.758639
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Financial and Insurance Activities,2434.6387336
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,Real Estate Activities,199.6856936
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Professional, Admin and Support Services",4464.2164237
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Public Admin, Education and Health",8947.3388074
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,"Arts, Entertainment and Other Services",634.6582101
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2023Q4,All Sectors,31070.037746
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,"Agriculture, Forestry and Fishing",214.3200307
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,Industry (excl. Construction),4339.2899193
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,Industry - of which Manufacturing,3757.6658943
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,Construction,1515.9891394
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,"Distribution, Transport, Hotels and Restaurants",5865.1638176
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,Information and Communication,2910.3430876
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,Financial and Insurance Activities,2520.4815145
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,Real Estate Activities,226.5078647
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,"Professional, Admin and Support Services",4678.6336288
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,"Public Admin, Education and Health",8996.3472327
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,"Arts, Entertainment and Other Services",636.613735
+Compensation of Employees at Constant Prices (Seasonally Adjusted),2024Q1,All Sectors,31903.68997
