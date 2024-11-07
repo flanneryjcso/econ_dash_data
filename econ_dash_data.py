@@ -71,13 +71,13 @@ for table, labels in pxstat_codes_dict.items():
 
 # Output a combined parquet file
 
-all_columns = set()
-for df in new_dict.values():
-    all_columns.update(df.columns)
+#all_columns = set()
+#for df in new_dict.values():
+#    all_columns.update(df.columns)
 
-combined_df = pd.concat([df.reindex(columns=all_columns) for df in new_dict.values()], ignore_index = True)
-combined_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df))]
-combined_df.to_csv('/home/flanneryj/econ_dash/combined_df.csv', index = False)
+#combined_df = pd.concat([df.reindex(columns=all_columns) for df in new_dict.values()], ignore_index = True)
+#combined_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df))]
+#combined_df.to_csv('/home/flanneryj/econ_dash/combined_df.csv', index = False)
 #combined_df.to_parquet('/home/flanneryj/econ_dash/combined_df.parquet')
 
 # Check whether there are any changes to the table strings
