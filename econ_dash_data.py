@@ -69,6 +69,34 @@ for table, labels in pxstat_codes_dict.items():
         continue
 
 
+four_col_tables = ('naq04', 'gfq10', 'gfq12', 'isq04', 'bpq15', 'cpm18', 'tsm01', 'wpm24', 'rsm05', 'ndq01', 'msi02', 'tfq01',
+                   'gfq01', 'gfq02', 'hpm09', 'tfq02', 'tem01', 'naq05', 'na001', 'na002', 'naq02', 'naq06', 'naq07', 'naq08')
+
+
+five_col_tables = ('tsm09', 'qlf03', 'mum01', 'ehq03', 'ndq06', 'qlf18')
+
+six_col_tables = ('lrm13', 'isq01', 'isq03')
+
+for label, data in new_dict.items():
+    if label in four_col_tables:
+        data.columns = ['A', 'B', 'C', 'D']
+    elif label in five_col_tables:
+        data.columns = ['A', 'B', 'C', 'D', 'E']
+    elif label in six_col_tables:
+        data.columns = ['A', 'B', 'C', 'D', 'E', 'F']
+
+four_col_df = pd.concat([data for label, data in new_dict.items() if label in four_col_tables], ignore_index = True)
+five_col_df = pd.concat([data for label, data in new_dict.items() if label in five_col_tables], ignore_index = True)
+six_col_df = pd.concat([data for label, data in new_dict.items() if label in six_col_tables], ignore_index = True)
+
+four_col_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df)) if table in four_col_tables]
+five_col_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df)) if table in five_col_tables]
+six_col_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df)) if table in six_col_tables]
+
+four_col_df.to_csv('/home/flanneryj/econ_dash/four_col_df.csv', index = False)
+five_col_df.to_csv('/home/flanneryj/econ_dash/five_col_df.csv', index = False)
+six_col_df.to_csv('/home/flanneryj/econ_dash/six_col_df.csv', index = False)
+
 # Output a combined parquet file
 
 #all_columns = set()
