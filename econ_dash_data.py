@@ -3,6 +3,8 @@ import os
 import subprocess
 import smtplib
 import json
+import zipfile
+from io import BytesIO
 
 my_email = os.environ.get("MY_EMAIL")
 password = os.environ.get("EMAIL_PASSWORD")
@@ -69,33 +71,7 @@ for table, labels in pxstat_codes_dict.items():
         continue
 
 
-four_col_tables = ('naq04', 'gfq10', 'gfq12', 'isq04', 'bpq15', 'cpm18', 'tsm01', 'wpm24', 'rsm05', 'ndq01', 'msi02', 'tfq01',
-                   'gfq01', 'gfq02', 'hpm09', 'tfq02', 'tem01', 'naq05', 'na001', 'na002', 'naq02', 'naq06', 'naq07', 'naq08')
 
-
-five_col_tables = ('tsm09', 'qlf03', 'mum01', 'ehq03', 'ndq06', 'qlf18')
-
-six_col_tables = ('lrm13', 'isq01', 'isq03')
-
-for label, data in new_dict.items():
-    if label in four_col_tables:
-        data.columns = ['A', 'B', 'C', 'D']
-    elif label in five_col_tables:
-        data.columns = ['A', 'B', 'C', 'D', 'E']
-    elif label in six_col_tables:
-        data.columns = ['A', 'B', 'C', 'D', 'E', 'F']
-
-four_col_df = pd.concat([data for label, data in new_dict.items() if label in four_col_tables], ignore_index = True)
-five_col_df = pd.concat([data for label, data in new_dict.items() if label in five_col_tables], ignore_index = True)
-six_col_df = pd.concat([data for label, data in new_dict.items() if label in six_col_tables], ignore_index = True)
-
-four_col_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df)) if table in four_col_tables]
-five_col_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df)) if table in five_col_tables]
-six_col_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df)) if table in six_col_tables]
-
-four_col_df.to_csv('/home/flanneryj/econ_dash/four_col_df.csv', index = False)
-five_col_df.to_csv('/home/flanneryj/econ_dash/five_col_df.csv', index = False)
-six_col_df.to_csv('/home/flanneryj/econ_dash/six_col_df.csv', index = False)
 
 # Output a combined parquet file
 
@@ -150,6 +126,47 @@ if check_dicts[0] == False:
             to_addrs = 'justin.flannery@cso.ie',
             msg = f"Subject:econ_dash_data changes\n\n {check_dicts[1]}")
 
+
+four_col_tables = ('naq04', 'gfq10', 'gfq12', 'isq04', 'bpq15', 'cpm18', 'tsm01', 'wpm24', 'rsm05', 'ndq01', 'msi02', 'tfq01',
+                   'gfq01', 'gfq02', 'hpm09', 'tfq02', 'tem01', 'naq05', 'na001', 'na002', 'naq02', 'naq06', 'naq07', 'naq08')
+
+
+five_col_tables = ('tsm09', 'qlf03', 'mum01', 'ehq03', 'ndq06', 'qlf18')
+
+six_col_tables = ('lrm13', 'isq01', 'isq03')
+
+for label, data in new_dict.items():
+    if label in four_col_tables:
+        data.columns = ['A', 'B', 'C', 'D']
+    elif label in five_col_tables:
+        data.columns = ['A', 'B', 'C', 'D', 'E']
+    elif label in six_col_tables:
+        data.columns = ['A', 'B', 'C', 'D', 'E', 'F']
+
+four_col_df = pd.concat([data for label, data in new_dict.items() if label in four_col_tables], ignore_index = True)
+five_col_df = pd.concat([data for label, data in new_dict.items() if label in five_col_tables], ignore_index = True)
+six_col_df = pd.concat([data for label, data in new_dict.items() if label in six_col_tables], ignore_index = True)
+
+four_col_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df)) if table in four_col_tables]
+five_col_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df)) if table in five_col_tables]
+six_col_df['Table'] = [table for table, df in new_dict.items() for _ in range(len(df)) if table in six_col_tables]
+
+four_col_df.to_csv('/home/flanneryj/econ_dash/four_col_df.csv', index = False)
+five_col_df.to_csv('/home/flanneryj/econ_dash/five_col_df.csv', index = False)
+six_col_df.to_csv('/home/flanneryj/econ_dash/six_col_df.csv', index = False)
+
+dataframe = {
+    'four_col_df.csv':four_col_df,
+    'five_col_df.csv':five_col_df,
+    'six_col_df.csv': six_col_df
+}
+
+zip_filename = '/home/flanneryj/econ_dash/dash_df.zip'
+
+with zipfile.ZipFile(zip_filename, 'w', zipfile.ZIP_DEFLATED) as zf:
+    for filename, df in dataframe.items():
+        with zf.open(filename, 'w') as buffer:
+            df.to_csv(buffer, index = False)
 
 def git_push():
     project_path = '/home/flanneryj/econ_dash'
