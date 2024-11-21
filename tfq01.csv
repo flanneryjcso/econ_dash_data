@@ -182,6 +182,9 @@ Tonne-Kilometre,2023Q4,Other,917
 Tonne-Kilometre,2024Q1,All business activities,3452
 Tonne-Kilometre,2024Q1,Transport,2373
 Tonne-Kilometre,2024Q1,Other,1079
+Tonne-Kilometre,2024Q2,All business activities,3511
+Tonne-Kilometre,2024Q2,Transport,2436
+Tonne-Kilometre,2024Q2,Other,1075
 Tonnes Carried,2009Q1,All business activities,42164
 Tonnes Carried,2009Q1,Transport,19878
 Tonnes Carried,2009Q1,Other,22285
@@ -365,6 +368,9 @@ Tonnes Carried,2023Q4,Other,17298
 Tonnes Carried,2024Q1,All business activities,44724
 Tonnes Carried,2024Q1,Transport,24117
 Tonnes Carried,2024Q1,Other,20607
+Tonnes Carried,2024Q2,All business activities,42931
+Tonnes Carried,2024Q2,Transport,23457
+Tonnes Carried,2024Q2,Other,19474
 Laden Journeys,2009Q1,All business activities,3618
 Laden Journeys,2009Q1,Transport,1115
 Laden Journeys,2009Q1,Other,2503
@@ -548,6 +554,9 @@ Laden Journeys,2023Q4,Other,2562
 Laden Journeys,2024Q1,All business activities,4207
 Laden Journeys,2024Q1,Transport,1539
 Laden Journeys,2024Q1,Other,2668
+Laden Journeys,2024Q2,All business activities,3689
+Laden Journeys,2024Q2,Transport,1519
+Laden Journeys,2024Q2,Other,2171
 All Vehicle Kilometres,2009Q1,All business activities,433
 All Vehicle Kilometres,2009Q1,Transport,179
 All Vehicle Kilometres,2009Q1,Other,255
@@ -731,3 +740,6 @@ All Vehicle Kilometres,2023Q4,Other,237
 All Vehicle Kilometres,2024Q1,All business activities,528
 All Vehicle Kilometres,2024Q1,Transport,246
 All Vehicle Kilometres,2024Q1,Other,281
+All Vehicle Kilometres,2024Q2,All business activities,469
+All Vehicle Kilometres,2024Q2,Transport,243
+All Vehicle Kilometres,2024Q2,Other,226
