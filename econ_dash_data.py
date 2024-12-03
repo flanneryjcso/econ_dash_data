@@ -18,7 +18,7 @@ pxstat_codes_dict = {'naq04': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
                      'cpm18': ['Statistic Label', 'Month', 'Detailed Sub Indices', 'VALUE'],
                      'tsm01': ['Statistic Label', 'Month', 'State', 'VALUE'],
                      'wpm24': ['Statistic Label', 'Month', 'Industry Sector NACE Rev 2', 'VALUE'],
-                     'rsm05': ['Statistic Label', 'Month', 'NACE Group', 'VALUE'],
+                     'rsm08': ['Statistic Label', 'Month', 'NACE Group', 'VALUE'],
                      'ndq01': ['STATISTIC Label', 'Quarter', 'Type of House', 'VALUE'],
                      'msi02': ['Statistic Label', 'Month', 'NACE Rev 2 Sector', 'VALUE'],
                      'tfq01': ['Statistic Label', 'Quarter', 'Business of Owner', 'VALUE'],
@@ -127,7 +127,7 @@ if check_dicts[0] == False:
             msg = f"Subject:econ_dash_data changes\n\n {check_dicts[1]}")
 
 
-four_col_tables = ('naq04', 'gfq10', 'gfq12', 'isq04', 'bpq15', 'cpm18', 'tsm01', 'wpm24', 'rsm05', 'ndq01', 'msi02', 'tfq01',
+four_col_tables = ('naq04', 'gfq10', 'gfq12', 'isq04', 'bpq15', 'cpm18', 'tsm01', 'wpm24', 'rsm08', 'ndq01', 'msi02', 'tfq01',
                    'gfq01', 'gfq02', 'hpm09', 'tfq02', 'tem01', 'naq05', 'na001', 'na002', 'naq02', 'naq06', 'naq07', 'naq08')
 
 
