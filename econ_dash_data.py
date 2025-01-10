@@ -28,7 +28,7 @@ pxstat_codes_dict = {'naq04': ['Statistic Label', 'Quarter', 'Sector', 'VALUE'],
                      'hpm09': ['Statistic Label', 'Month', 'Type of Residential Property', 'VALUE'],
                      'qlf03': ['Statistic Label', 'Quarter', 'Sex', 'NACE Rev 2 Economic Sector', 'VALUE'],
                      'mum01': ['Statistic Label', 'Month', 'Age Group', 'Sex', 'VALUE'],
-                     'lrm13': ['STATISTIC Label', 'Month', 'Sex', 'Age Group', 'Last Held Occupation', 'VALUE'],
+                     'lrm13': ['Statistic Label', 'Month', 'Sex', 'Age Group', 'Last Held Occupation', 'VALUE'],
                      'ehq03': ['Statistic Label', 'Quarter', 'Economic Sector NACE Rev 2', 'Type of Employee', 'VALUE'],
                      'ndq06': ['STATISTIC Label', 'Quarter', 'Type of House', 'Local Authority', 'VALUE'],
                      'tfq02': ['Statistic Label', 'Quarter', 'NST Group', 'VALUE'],
@@ -95,8 +95,8 @@ for table, labels in new_dict.items():
         tables_string_dict[column] = string_columns[column].unique().tolist()
     final_dict[table] = tables_string_dict
 
-#with open('/home/flanneryj/econ_dash/econ_dash_dict.json', 'w') as json_file:
-#    json.dump(final_dict, json_file)
+with open('/home/flanneryj/econ_dash/econ_dash_dict.json', 'w') as json_file:
+    json.dump(final_dict, json_file)
 
 with open('/home/flanneryj/econ_dash/econ_dash_dict.json', 'r') as json_file:
     old_dict = json.load(json_file)
