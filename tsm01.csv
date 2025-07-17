@@ -656,12 +656,14 @@ Total Imports,2024 June,State,11602875
 Total Imports,2024 July,State,12097315
 Total Imports,2024 August,State,11034718
 Total Imports,2024 September,State,10667587
-Total Imports,2024 October,State,11259405
-Total Imports,2024 November,State,11903835
+Total Imports,2024 October,State,11654732
+Total Imports,2024 November,State,11733415
 Total Imports,2024 December,State,11816640
 Total Imports,2025 January,State,10716248
 Total Imports,2025 February,State,12531259
-Total Imports,2025 March,State,12451561
+Total Imports,2025 March,State,13139211
+Total Imports,2025 April,State,10606933
+Total Imports,2025 May,State,10744756
 Total Exports,1970 January,State,46968
 Total Exports,1970 February,State,45507
 Total Exports,1970 March,State,45368
@@ -1319,12 +1321,14 @@ Total Exports,2024 June,State,16727247
 Total Exports,2024 July,State,18153055
 Total Exports,2024 August,State,17360636
 Total Exports,2024 September,State,22189330
-Total Exports,2024 October,State,21275826
-Total Exports,2024 November,State,21114418
+Total Exports,2024 October,State,21168426
+Total Exports,2024 November,State,20595694
 Total Exports,2024 December,State,16147556
 Total Exports,2025 January,State,25880468
 Total Exports,2025 February,State,25224366
-Total Exports,2025 March,State,37269799
+Total Exports,2025 March,State,38106607
+Total Exports,2025 April,State,21876661
+Total Exports,2025 May,State,23332657
 Trade Surplus (Exports minus Imports),1970 January,State,-19427
 Trade Surplus (Exports minus Imports),1970 February,State,-23160
 Trade Surplus (Exports minus Imports),1970 March,State,-20354
@@ -1982,12 +1986,14 @@ Trade Surplus (Exports minus Imports),2024 June,State,5124372
 Trade Surplus (Exports minus Imports),2024 July,State,6055741
 Trade Surplus (Exports minus Imports),2024 August,State,6325918
 Trade Surplus (Exports minus Imports),2024 September,State,11521744
-Trade Surplus (Exports minus Imports),2024 October,State,10016420
-Trade Surplus (Exports minus Imports),2024 November,State,9210583
+Trade Surplus (Exports minus Imports),2024 October,State,9513694
+Trade Surplus (Exports minus Imports),2024 November,State,8862279
 Trade Surplus (Exports minus Imports),2024 December,State,4330916
 Trade Surplus (Exports minus Imports),2025 January,State,15164220
 Trade Surplus (Exports minus Imports),2025 February,State,12693107
-Trade Surplus (Exports minus Imports),2025 March,State,24818238
+Trade Surplus (Exports minus Imports),2025 March,State,24967396
+Trade Surplus (Exports minus Imports),2025 April,State,11269728
+Trade Surplus (Exports minus Imports),2025 May,State,12587902
 Total Imports (Seasonally Adjusted),1970 January,State,67360
 Total Imports (Seasonally Adjusted),1970 February,State,69248
 Total Imports (Seasonally Adjusted),1970 March,State,59842
@@ -2645,12 +2651,14 @@ Total Imports (Seasonally Adjusted),2024 June,State,11419800
 Total Imports (Seasonally Adjusted),2024 July,State,12368200
 Total Imports (Seasonally Adjusted),2024 August,State,12077300
 Total Imports (Seasonally Adjusted),2024 September,State,11001400
-Total Imports (Seasonally Adjusted),2024 October,State,10684300
-Total Imports (Seasonally Adjusted),2024 November,State,11491700
-Total Imports (Seasonally Adjusted),2024 December,State,11138600
-Total Imports (Seasonally Adjusted),2025 January,State,11132900
-Total Imports (Seasonally Adjusted),2025 February,State,13445400
-Total Imports (Seasonally Adjusted),2025 March,State,11845300
+Total Imports (Seasonally Adjusted),2024 October,State,10706000
+Total Imports (Seasonally Adjusted),2024 November,State,11334300
+Total Imports (Seasonally Adjusted),2024 December,State,11113300
+Total Imports (Seasonally Adjusted),2025 January,State,11066900
+Total Imports (Seasonally Adjusted),2025 February,State,13424900
+Total Imports (Seasonally Adjusted),2025 March,State,12381300
+Total Imports (Seasonally Adjusted),2025 April,State,10794400
+Total Imports (Seasonally Adjusted),2025 May,State,10741700
 Total Exports (Seasonally Adjusted),1970 January,State,50898
 Total Exports (Seasonally Adjusted),1970 February,State,49130
 Total Exports (Seasonally Adjusted),1970 March,State,45987
@@ -3308,12 +3316,14 @@ Total Exports (Seasonally Adjusted),2024 June,State,17042000
 Total Exports (Seasonally Adjusted),2024 July,State,17867200
 Total Exports (Seasonally Adjusted),2024 August,State,18007600
 Total Exports (Seasonally Adjusted),2024 September,State,22015900
-Total Exports (Seasonally Adjusted),2024 October,State,20758100
-Total Exports (Seasonally Adjusted),2024 November,State,20247900
-Total Exports (Seasonally Adjusted),2024 December,State,18215100
-Total Exports (Seasonally Adjusted),2025 January,State,24955900
-Total Exports (Seasonally Adjusted),2025 February,State,26144100
-Total Exports (Seasonally Adjusted),2025 March,State,35199200
+Total Exports (Seasonally Adjusted),2024 October,State,20779800
+Total Exports (Seasonally Adjusted),2024 November,State,19800000
+Total Exports (Seasonally Adjusted),2024 December,State,18250400
+Total Exports (Seasonally Adjusted),2025 January,State,25028200
+Total Exports (Seasonally Adjusted),2025 February,State,26051700
+Total Exports (Seasonally Adjusted),2025 March,State,35926300
+Total Exports (Seasonally Adjusted),2025 April,State,21910000
+Total Exports (Seasonally Adjusted),2025 May,State,23010400
 Trade Surplus (Exports minus Imports) (Seasonally Adjusted),1970 January,State,-16462
 Trade Surplus (Exports minus Imports) (Seasonally Adjusted),1970 February,State,-20118
 Trade Surplus (Exports minus Imports) (Seasonally Adjusted),1970 March,State,-13855
@@ -3972,8 +3982,10 @@ Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 July,State,5499
 Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 August,State,5930300
 Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 September,State,11014500
 Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 October,State,10073800
-Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 November,State,8756200
-Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 December,State,7076500
-Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2025 January,State,13823000
-Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2025 February,State,12698700
-Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2025 March,State,23353900
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 November,State,8465700
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2024 December,State,7137100
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2025 January,State,13961300
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2025 February,State,12626800
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2025 March,State,23545000
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2025 April,State,11115600
+Trade Surplus (Exports minus Imports) (Seasonally Adjusted),2025 May,State,12268700
