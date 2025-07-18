@@ -1231,8 +1231,8 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2019Q4,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),203380
 "General Government Net Worth, Gross and Net Debt ESA 2010",2019Q4,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-30147
 "General Government Net Worth, Gross and Net Debt ESA 2010",2019Q4,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),173233
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-29360
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),139777
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-29359
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),139778
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-169137
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",92256
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",36675
@@ -1242,25 +1242,25 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",236655
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",24738
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Estimated pension liabilities of government,149600
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"Net worth, including pension liabilities",-178960
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"Net worth, including pension liabilities",-178959
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Contingent liabilities,6185
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"Net worth, including pension liabilities and contingent liabilities",-185146
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,"Net worth, including pension liabilities and contingent liabilities",-185144
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,General Government: changes in net worth - Opening net worth,-20275
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Change in net worth due to transactions,-5769
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),844
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-6613
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),-3316
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,1038
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),-3315
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,1040
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Change in net worth due to other economic flows - Other changes in financial assets,-4394
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Change in net worth due to other economic flows - Other changes in liabilities,40
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Closing net worth,-29360
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Closing net worth,-29358
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),236655
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,General Government Debt (GGDebt) - Difference between EDP face value and market value,-23047
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),213609
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-36675
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q1,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),176934
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-31325
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),141644
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-31321
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),141647
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-172969
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",103827
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",48743
@@ -1270,25 +1270,25 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",250878
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",25918
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Estimated pension liabilities of government,149600
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"Net worth, including pension liabilities",-180925
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"Net worth, including pension liabilities",-180921
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Contingent liabilities,6185
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"Net worth, including pension liabilities and contingent liabilities",-187110
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,General Government: changes in net worth - Opening net worth,-29360
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,"Net worth, including pension liabilities and contingent liabilities",-187106
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,General Government: changes in net worth - Opening net worth,-29358
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Change in net worth due to transactions,-4407
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),829
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-5236
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),2443
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,1038
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),2444
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,1040
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Change in net worth due to other economic flows - Other changes in financial assets,3527
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Change in net worth due to other economic flows - Other changes in liabilities,-2122
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Closing net worth,-31325
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Closing net worth,-31321
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),250878
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,General Government Debt (GGDebt) - Difference between EDP face value and market value,-25094
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),225784
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-48743
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q2,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),177040
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-34995
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),143975
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-34989
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),143981
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-178970
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",101427
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",45570
@@ -1298,25 +1298,25 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",254217
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",26180
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Estimated pension liabilities of government,149600
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"Net worth, including pension liabilities",-184595
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"Net worth, including pension liabilities",-184589
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Contingent liabilities,6185
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"Net worth, including pension liabilities and contingent liabilities",-190780
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,General Government: changes in net worth - Opening net worth,-31325
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,"Net worth, including pension liabilities and contingent liabilities",-190775
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,General Government: changes in net worth - Opening net worth,-31321
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Change in net worth due to transactions,-3699
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1294
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-4992
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),29
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,1038
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),31
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,1040
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Change in net worth due to other economic flows - Other changes in financial assets,-96
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Change in net worth due to other economic flows - Other changes in liabilities,-913
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Closing net worth,-34995
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Closing net worth,-34989
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),254217
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,General Government Debt (GGDebt) - Difference between EDP face value and market value,-27062
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),227155
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-45570
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q3,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),181585
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-34058
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),145829
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-34051
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),145837
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-179888
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",93501
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",33262
@@ -1326,25 +1326,25 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",246984
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",26404
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Estimated pension liabilities of government,169800
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"Net worth, including pension liabilities",-203858
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"Net worth, including pension liabilities",-203851
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Contingent liabilities,6185
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"Net worth, including pension liabilities and contingent liabilities",-210043
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,General Government: changes in net worth - Opening net worth,-34995
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,"Net worth, including pension liabilities and contingent liabilities",-210036
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,General Government: changes in net worth - Opening net worth,-34989
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Change in net worth due to transactions,-639
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),816
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-1455
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),1575
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,1038
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),1577
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,1040
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Change in net worth due to other economic flows - Other changes in financial assets,2534
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Change in net worth due to other economic flows - Other changes in liabilities,-1996
-"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Closing net worth,-34058
+"General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Closing net worth,-34051
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),246984
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,General Government Debt (GGDebt) - Difference between EDP face value and market value,-29102
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),217882
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-33262
 "General Government Net Worth, Gross and Net Debt ESA 2010",2020Q4,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),184620
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-30494
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),149847
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-30489
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),149852
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-180341
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",101792
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",40107
@@ -1354,25 +1354,25 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",254754
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",27379
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Estimated pension liabilities of government,169800
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"Net worth, including pension liabilities",-200294
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"Net worth, including pension liabilities",-200289
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Contingent liabilities,6185
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"Net worth, including pension liabilities and contingent liabilities",-206480
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,General Government: changes in net worth - Opening net worth,-34058
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to transactions,-6849
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),318
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,"Net worth, including pension liabilities and contingent liabilities",-206475
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,General Government: changes in net worth - Opening net worth,-34051
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to transactions,-6848
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),319
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-7167
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),10413
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,3699
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),10410
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,3696
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to other economic flows - Other changes in financial assets,2315
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Change in net worth due to other economic flows - Other changes in liabilities,4399
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Closing net worth,-30494
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Closing net worth,-30489
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),254754
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,General Government Debt (GGDebt) - Difference between EDP face value and market value,-24342
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),230412
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-40107
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q1,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),190305
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-27360
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),154216
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-27357
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),154219
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-181576
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",103178
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",42007
@@ -1382,24 +1382,24 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",256846
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",27908
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Estimated pension liabilities of government,169800
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"Net worth, including pension liabilities",-197160
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"Net worth, including pension liabilities",-197157
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Contingent liabilities,6185
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"Net worth, including pension liabilities and contingent liabilities",-203345
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,General Government: changes in net worth - Opening net worth,-30494
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,"Net worth, including pension liabilities and contingent liabilities",-203342
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,General Government: changes in net worth - Opening net worth,-30489
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to transactions,-1441
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),671
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),672
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-2113
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),4576
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,3699
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),4573
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,3696
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to other economic flows - Other changes in financial assets,-803
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Change in net worth due to other economic flows - Other changes in liabilities,1681
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Closing net worth,-27360
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Closing net worth,-27357
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),256846
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,General Government Debt (GGDebt) - Difference between EDP face value and market value,-22327
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),234519
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-42007
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q2,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),192512
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-21053
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-21052
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),158846
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-179898
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",105742
@@ -1410,25 +1410,25 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",257302
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28338
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Estimated pension liabilities of government,169800
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,"Net worth, including pension liabilities",-190853
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,"Net worth, including pension liabilities",-190852
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Contingent liabilities,6185
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,"Net worth, including pension liabilities and contingent liabilities",-197038
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,General Government: changes in net worth - Opening net worth,-27360
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,General Government: changes in net worth - Opening net worth,-27357
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to transactions,157
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),930
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),931
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-774
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),6150
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,3699
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),6148
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,3696
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to other economic flows - Other changes in financial assets,603
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Change in net worth due to other economic flows - Other changes in liabilities,1849
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Closing net worth,-21053
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Closing net worth,-21052
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),257302
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,General Government Debt (GGDebt) - Difference between EDP face value and market value,-21010
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),236292
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-43525
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q3,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),192767
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-9549
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),163805
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",-9550
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),163804
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-173354
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",109525
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",44742
@@ -1438,25 +1438,25 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",254306
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28573
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"Net worth, including pension liabilities",-185249
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"Net worth, including pension liabilities",-185250
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Contingent liabilities,6185
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"Net worth, including pension liabilities and contingent liabilities",-191434
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,General Government: changes in net worth - Opening net worth,-21053
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to transactions,5227
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,"Net worth, including pension liabilities and contingent liabilities",-191435
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,General Government: changes in net worth - Opening net worth,-21052
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to transactions,5228
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1261
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),3966
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),6277
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,3699
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),6275
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,3696
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to other economic flows - Other changes in financial assets,250
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Change in net worth due to other economic flows - Other changes in liabilities,2329
-"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Closing net worth,-9548
+"General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Closing net worth,-9550
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),254306
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,General Government Debt (GGDebt) - Difference between EDP face value and market value,-18187
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),236119
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-44742
 "General Government Net Worth, Gross and Net Debt ESA 2010",2021Q4,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),191376
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",5522
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),169704
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",5547
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),169730
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-164183
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",107611
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",42483
@@ -1466,328 +1466,356 @@ Statistic,Quarter,Item,value
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",243735
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28059
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"Net worth, including pension liabilities",-170178
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"Net worth, including pension liabilities",-170153
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Contingent liabilities,6187
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"Net worth, including pension liabilities and contingent liabilities",-176365
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,General Government: changes in net worth - Opening net worth,-9548
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to transactions,-407
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),332
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,"Net worth, including pension liabilities and contingent liabilities",-176339
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,General Government: changes in net worth - Opening net worth,-9550
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to transactions,-412
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),327
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-739
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),15477
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,5567
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),15509
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,5599
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to other economic flows - Other changes in financial assets,243
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Change in net worth due to other economic flows - Other changes in liabilities,9667
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Closing net worth,5522
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Closing net worth,5548
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),243735
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,General Government Debt (GGDebt) - Difference between EDP face value and market value,-8561
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),235173
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-42483
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q1,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),192691
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",26293
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),176087
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-149794
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",111160
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",26359
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),176140
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-149781
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",111173
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",47888
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",34276
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",28996
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",29009
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",260954
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",232725
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28229
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Net worth, including pension liabilities",-149407
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Net worth, including pension liabilities",-149341
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Contingent liabilities,6187
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Net worth, including pension liabilities and contingent liabilities",-155593
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,General Government: changes in net worth - Opening net worth,5522
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to transactions,3362
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),815
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2547
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),17409
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,5567
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,"Net worth, including pension liabilities and contingent liabilities",-155527
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,General Government: changes in net worth - Opening net worth,5548
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to transactions,3371
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),811
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2560
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),17441
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,5599
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to other economic flows - Other changes in financial assets,-97
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Change in net worth due to other economic flows - Other changes in liabilities,11939
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Closing net worth,26293
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Closing net worth,26359
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),232725
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,General Government Debt (GGDebt) - Difference between EDP face value and market value,3877
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),236602
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-47888
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q2,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),188713
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",44539
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),182825
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-138286
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",114289
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",44632
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),182905
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-138273
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",114302
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",50367
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",34702
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",29219
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",29233
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",252575
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",224401
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28174
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Net worth, including pension liabilities",-131161
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Net worth, including pension liabilities",-131068
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Contingent liabilities,6187
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Net worth, including pension liabilities and contingent liabilities",-137348
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,General Government: changes in net worth - Opening net worth,26293
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to transactions,4003
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1170
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,"Net worth, including pension liabilities and contingent liabilities",-137255
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,General Government: changes in net worth - Opening net worth,26359
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to transactions,3998
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1165
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2833
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),14243
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,5567
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),14274
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,5599
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to other economic flows - Other changes in financial assets,487
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Change in net worth due to other economic flows - Other changes in liabilities,8188
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Closing net worth,44539
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Closing net worth,44632
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),224401
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,General Government Debt (GGDebt) - Difference between EDP face value and market value,11701
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),236101
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-50367
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q3,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),185734
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",59821
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),189981
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-130160
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",105862
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",59945
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),190088
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-130142
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",105880
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",38276
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",35768
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",31818
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",31836
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",236023
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",207245
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28778
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Net worth, including pension liabilities",-115879
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Net worth, including pension liabilities",-115755
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Contingent liabilities,6187
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Net worth, including pension liabilities and contingent liabilities",-122066
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,General Government: changes in net worth - Opening net worth,44539
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,"Net worth, including pension liabilities and contingent liabilities",-121941
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,General Government: changes in net worth - Opening net worth,44632
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to transactions,4145
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1589
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2557
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),11137
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,5567
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1584
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2561
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),11169
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,5599
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to other economic flows - Other changes in financial assets,1576
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Change in net worth due to other economic flows - Other changes in liabilities,3994
-"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Closing net worth,59821
+"General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Closing net worth,59946
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),207245
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,General Government Debt (GGDebt) - Difference between EDP face value and market value,17526
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),224771
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-38276
 "General Government Net Worth, Gross and Net Debt ESA 2010",2022Q4,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),186495
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",64186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),192650
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-128464
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",106346
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",38621
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",36742
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",30982
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",234810
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",63585
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),192687
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-129102
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",105712
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",38633
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",36089
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",30990
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",234814
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",206455
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28355
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28359
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Net worth, including pension liabilities",-111514
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Net worth, including pension liabilities",-112115
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Contingent liabilities,6186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Net worth, including pension liabilities and contingent liabilities",-117700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,General Government: changes in net worth - Opening net worth,59821
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to transactions,2119
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),477
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),1642
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),2246
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,2192
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to other economic flows - Other changes in financial assets,1188
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,"Net worth, including pension liabilities and contingent liabilities",-118301
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,General Government: changes in net worth - Opening net worth,59946
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to transactions,2123
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),483
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),1639
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),1517
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,2116
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to other economic flows - Other changes in financial assets,535
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Change in net worth due to other economic flows - Other changes in liabilities,-1134
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Closing net worth,64186
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Closing net worth,63585
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),206455
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,General Government Debt (GGDebt) - Difference between EDP face value and market value,17164
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),223618
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-38621
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),184997
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",69006
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),195730
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-126724
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",106541
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",40717
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",34935
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",30888
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",233265
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-38633
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q1,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),184985
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",68547
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),195697
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-127150
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",106123
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",40742
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",34496
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",30886
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",233273
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",204932
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28332
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28341
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Net worth, including pension liabilities",-106694
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Net worth, including pension liabilities",-107153
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Contingent liabilities,6186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Net worth, including pension liabilities and contingent liabilities",-112880
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,General Government: changes in net worth - Opening net worth,64186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to transactions,3122
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),888
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2234
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),1698
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,2192
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to other economic flows - Other changes in financial assets,-258
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,"Net worth, including pension liabilities and contingent liabilities",-113339
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,General Government: changes in net worth - Opening net worth,63585
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to transactions,3126
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),894
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2232
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),1836
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,2116
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to other economic flows - Other changes in financial assets,-45
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Change in net worth due to other economic flows - Other changes in liabilities,-235
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Closing net worth,69006
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Closing net worth,68548
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),204932
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,General Government Debt (GGDebt) - Difference between EDP face value and market value,18143
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),223075
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-40717
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),182358
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",78886
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),199231
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-120345
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",107690
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",41932
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",34961
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",30797
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",228035
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-40742
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q2,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),182334
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",78574
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),199128
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-120554
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",107493
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",41968
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",34740
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",30785
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",228048
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",199847
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28188
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28201
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Net worth, including pension liabilities",-96814
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Net worth, including pension liabilities",-97126
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Contingent liabilities,6186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Net worth, including pension liabilities and contingent liabilities",-103000
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,General Government: changes in net worth - Opening net worth,69006
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to transactions,2340
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1309
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,"Net worth, including pension liabilities and contingent liabilities",-103312
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,General Government: changes in net worth - Opening net worth,68548
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to transactions,2346
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1315
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),1031
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),7540
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,2192
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to other economic flows - Other changes in financial assets,340
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),7681
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,2116
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to other economic flows - Other changes in financial assets,557
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Change in net worth due to other economic flows - Other changes in liabilities,5008
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Closing net worth,78886
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Closing net worth,78574
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),199847
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,General Government Debt (GGDebt) - Difference between EDP face value and market value,22753
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),222600
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-41932
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),180668
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",75555
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),203370
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-127815
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",108118
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",41381
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-41968
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q3,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),180631
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",75394
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),203197
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-127803
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",108146
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",41429
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",33829
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",32908
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",235933
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",32888
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",235949
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",207649
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28284
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28301
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Net worth, including pension liabilities",-100145
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Net worth, including pension liabilities",-100306
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Contingent liabilities,6186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Net worth, including pension liabilities and contingent liabilities",-106331
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,General Government: changes in net worth - Opening net worth,78886
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to transactions,5644
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1947
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),3697
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),-8975
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,2192
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to other economic flows - Other changes in financial assets,-387
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,"Net worth, including pension liabilities and contingent liabilities",-106492
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,General Government: changes in net worth - Opening net worth,78574
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to transactions,5650
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1953
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),3698
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),-8830
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,2116
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to other economic flows - Other changes in financial assets,-166
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Change in net worth due to other economic flows - Other changes in liabilities,-10780
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Closing net worth,75555
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Closing net worth,75395
 "General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),207649
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,General Government Debt (GGDebt) - Difference between EDP face value and market value,13073
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),220721
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-41381
-"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),179340
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",79643
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),204654
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-125011
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",104653
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",36579
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",35873
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",32201
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",229664
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",200884
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28780
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,General Government Debt (GGDebt) - Difference between EDP face value and market value,13071
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),220720
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-41429
+"General Government Net Worth, Gross and Net Debt ESA 2010",2023Q4,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),179290
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",82321
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),207219
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-124897
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",104660
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",36407
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",36075
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",32178
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",229557
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",200769
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",28788
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Net worth, including pension liabilities",-96057
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Net worth, including pension liabilities",-93379
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Contingent liabilities,6186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Net worth, including pension liabilities and contingent liabilities",-102243
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,General Government: changes in net worth - Opening net worth,75555
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to transactions,383
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1284
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-901
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),3705
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,0
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to other economic flows - Other changes in financial assets,2065
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,"Net worth, including pension liabilities and contingent liabilities",-99565
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,General Government: changes in net worth - Opening net worth,75395
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to transactions,162
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1162
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-1000
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),6765
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,2859
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to other economic flows - Other changes in financial assets,2266
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Change in net worth due to other economic flows - Other changes in liabilities,1640
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Closing net worth,79643
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),200884
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,General Government Debt (GGDebt) - Difference between EDP face value and market value,15049
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),215933
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-36579
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),179355
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",86871
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),206446
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-119575
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",109671
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",44174
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",33579
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",31918
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",229247
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",200080
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",29166
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Closing net worth,82322
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),200769
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,General Government Debt (GGDebt) - Difference between EDP face value and market value,15048
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),215817
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-36407
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q1,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),179410
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",92398
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),211749
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-119351
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",109666
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",43807
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",33985
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",31874
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",229017
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",199850
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",29167
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Net worth, including pension liabilities",-88829
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Net worth, including pension liabilities",-83302
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Contingent liabilities,6186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Net worth, including pension liabilities and contingent liabilities",-95015
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,General Government: changes in net worth - Opening net worth,79643
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to transactions,4458
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1793
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2666
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),2770
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,0
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to other economic flows - Other changes in financial assets,1459
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,"Net worth, including pension liabilities and contingent liabilities",-89488
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,General Government: changes in net worth - Opening net worth,82322
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to transactions,4243
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1671
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2572
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to other economic flows - ESA2010 Code (Kx),5834
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to other economic flows - Other changes in non-financial assets,2859
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to other economic flows - Other changes in financial assets,1664
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Change in net worth due to other economic flows - Other changes in liabilities,1311
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Closing net worth,86871
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),200080
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,General Government Debt (GGDebt) - Difference between EDP face value and market value,17037
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),217117
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-44174
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),172943
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",101062
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),208107
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-107045
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",113757
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",49671
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",33111
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",30974
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",220802
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",206074
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",14728
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Closing net worth,92398
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),199850
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,General Government Debt (GGDebt) - Difference between EDP face value and market value,17035
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),216885
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-43807
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q2,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),173078
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",109483
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),216147
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-106663
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",113787
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",49133
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",33725
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",30930
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",220450
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",205729
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",14721
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Net worth, including pension liabilities",-74638
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Net worth, including pension liabilities",-66217
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Contingent liabilities,6186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Net worth, including pension liabilities and contingent liabilities",-80824
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,General Government: changes in net worth - Opening net worth,86871
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to transactions,19609
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1661
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),17949
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),-5419
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,0
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to other economic flows - Other changes in financial assets,-462
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to other economic flows - Other changes in liabilities,-4957
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Closing net worth,101062
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),206074
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,General Government Debt (GGDebt) - Difference between EDP face value and market value,11996
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),218070
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-49671
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),168399
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",107459
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),210203
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-102744
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",116655
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",60973
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",33345
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",22336
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",219399
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",205288
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",14111
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,"Net worth, including pension liabilities and contingent liabilities",-72402
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,General Government: changes in net worth - Opening net worth,92398
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to transactions,19438
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1539
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),17899
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to other economic flows - ESA2010 Code (Kx),-2352
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to other economic flows - Other changes in non-financial assets,2859
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to other economic flows - Other changes in financial assets,-268
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Change in net worth due to other economic flows - Other changes in liabilities,-4943
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Closing net worth,109484
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),205729
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,General Government Debt (GGDebt) - Difference between EDP face value and market value,11993
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),217722
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-49133
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q3,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),168589
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",119221
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),220981
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-101760
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",117286
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",60460
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",34214
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",22611
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",219046
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",204828
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",14218
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Estimated pension liabilities of government,175700
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Net worth, including pension liabilities",-68241
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Net worth, including pension liabilities",-56479
 "General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Contingent liabilities,6186
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Net worth, including pension liabilities and contingent liabilities",-74427
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,General Government: changes in net worth - Opening net worth,101062
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to transactions,4937
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),2096
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),2841
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),1461
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,0
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to other economic flows - Other changes in financial assets,591
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to other economic flows - Other changes in liabilities,869
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Closing net worth,107460
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),205288
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,General Government Debt (GGDebt) - Difference between EDP face value and market value,12890
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),218178
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-60973
-"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),157205
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,"Net worth, including pension liabilities and contingent liabilities",-62665
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,General Government: changes in net worth - Opening net worth,109484
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to transactions,5164
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1975
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),3190
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to other economic flows - ESA2010 Code (Kx),4573
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to other economic flows - Other changes in non-financial assets,2859
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to other economic flows - Other changes in financial assets,849
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Change in net worth due to other economic flows - Other changes in liabilities,865
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Closing net worth,119221
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),204828
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,General Government Debt (GGDebt) - Difference between EDP face value and market value,12885
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),217713
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-60460
+"General Government Net Worth, Gross and Net Debt ESA 2010",2024Q4,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),157252
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"General Government net worth - Net Worth at market value, excluding pension liabilities - ESA2010 Code (NW)",124215
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,General Government net worth - Non-financial assets at market value - ESA2010 Code (NFA),222402
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"General Government net worth - Financial net worth at market value, excluding pension liabilities - ESA2010 Code (FNW)",-98188
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"Financial net worth at market value, excluding pension liabilities - Financial assets at market value - ESA2010 Code (FA)",108736
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Asset) - ESA2010 Code (F2 + F3 + F4)",56821
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"Financial net worth at market value, excluding pension liabilities - Equity and Investment Fund Shares (Asset) - ESA2010 Code (F5)",33126
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"Financial net worth at market value, excluding pension liabilities - Other financial assets - ESA2010 Code (F6 + F7 + F8)",18789
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"Financial net worth at market value, excluding pension liabilities - Liabilities at market value - ESA2010 Code (L)",206924
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"Financial net worth at market value, excluding pension liabilities - EDP debt instruments (Liability) - ESA2010 Code (F2 + F3 + F4)",192405
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"Financial net worth at market value, excluding pension liabilities - Other liabilities - ESA2010 Code (F5 + F6 + F7 + F8)",14518
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Estimated pension liabilities of government,175700
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"Net worth, including pension liabilities",-51485
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Contingent liabilities,6186
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,"Net worth, including pension liabilities and contingent liabilities",-57671
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,General Government: changes in net worth - Opening net worth,119221
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Change in net worth due to transactions,1090
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Change in net worth due to transactions - Net acquisition of non-financial assets - ESA2010 Code (P5 +NP - P51c),1421
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Change in net worth due to transactions - Net lending/net borrowing - ESA2010 Code (B9),-331
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Change in net worth due to other economic flows - ESA2010 Code (Kx),3903
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Change in net worth due to other economic flows - Other changes in non-financial assets,0
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Change in net worth due to other economic flows - Other changes in financial assets,460
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Change in net worth due to other economic flows - Other changes in liabilities,3443
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Closing net worth,124215
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,General Government Debt (GGDebt) - Debt instrument liabilities at market value - ESA2010 Code (F2 + F3 + F4),192405
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,General Government Debt (GGDebt) - Difference between EDP face value and market value,16164
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),208569
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4),-56821
+"General Government Net Worth, Gross and Net Debt ESA 2010",2025Q1,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),151748
