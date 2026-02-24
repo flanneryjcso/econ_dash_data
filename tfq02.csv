@@ -989,6 +989,21 @@ Tonne-Kilometre,2025Q2,Machinery and equipment,93
 Tonne-Kilometre,2025Q2,Furniture and other manufactured goods,179
 Tonne-Kilometre,2025Q2,Secondary raw materials and waste,154
 Tonne-Kilometre,2025Q2,Other NST 2007 goods,603
+Tonne-Kilometre,2025Q3,All NST 2007 goods,3808
+Tonne-Kilometre,2025Q3,Products of agriculture forestry and fishing,322
+Tonne-Kilometre,2025Q3,Coal and natural gas,14
+Tonne-Kilometre,2025Q3,"Quarry products, metal ores and peat",388
+Tonne-Kilometre,2025Q3,Foodstuffs,978
+Tonne-Kilometre,2025Q3,Textiles and leather,35
+Tonne-Kilometre,2025Q3,"Wood, pulp and paper",145
+Tonne-Kilometre,2025Q3,Coke and refined petroleum products,250
+Tonne-Kilometre,2025Q3,Chemicals and plastics,143
+Tonne-Kilometre,2025Q3,Other non-metallic mineral products,412
+Tonne-Kilometre,2025Q3,Metal products (except machinery and equipment),53
+Tonne-Kilometre,2025Q3,Machinery and equipment,181
+Tonne-Kilometre,2025Q3,Furniture and other manufactured goods,104
+Tonne-Kilometre,2025Q3,Secondary raw materials and waste,136
+Tonne-Kilometre,2025Q3,Other NST 2007 goods,649
 Tonnes Carried,2009Q1,All NST 2007 goods,42164
 Tonnes Carried,2009Q1,Products of agriculture forestry and fishing,2063
 Tonnes Carried,2009Q1,Coal and natural gas,757
@@ -1979,6 +1994,21 @@ Tonnes Carried,2025Q2,Machinery and equipment,897
 Tonnes Carried,2025Q2,Furniture and other manufactured goods,731
 Tonnes Carried,2025Q2,Secondary raw materials and waste,1754
 Tonnes Carried,2025Q2,Other NST 2007 goods,4603
+Tonnes Carried,2025Q3,All NST 2007 goods,43541
+Tonnes Carried,2025Q3,Products of agriculture forestry and fishing,3768
+Tonnes Carried,2025Q3,Coal and natural gas,130
+Tonnes Carried,2025Q3,"Quarry products, metal ores and peat",11621
+Tonnes Carried,2025Q3,Foodstuffs,8168
+Tonnes Carried,2025Q3,Textiles and leather,321
+Tonnes Carried,2025Q3,"Wood, pulp and paper",1277
+Tonnes Carried,2025Q3,Coke and refined petroleum products,2329
+Tonnes Carried,2025Q3,Chemicals and plastics,1070
+Tonnes Carried,2025Q3,Other non-metallic mineral products,6418
+Tonnes Carried,2025Q3,Metal products (except machinery and equipment),379
+Tonnes Carried,2025Q3,Machinery and equipment,980
+Tonnes Carried,2025Q3,Furniture and other manufactured goods,510
+Tonnes Carried,2025Q3,Secondary raw materials and waste,1577
+Tonnes Carried,2025Q3,Other NST 2007 goods,4992
 Vehicle Kilometres,2009Q1,All NST 2007 goods,433
 Vehicle Kilometres,2009Q1,Products of agriculture forestry and fishing,21
 Vehicle Kilometres,2009Q1,Coal and natural gas,4
@@ -2969,3 +2999,18 @@ Vehicle Kilometres,2025Q2,Machinery and equipment,15
 Vehicle Kilometres,2025Q2,Furniture and other manufactured goods,19
 Vehicle Kilometres,2025Q2,Secondary raw materials and waste,16
 Vehicle Kilometres,2025Q2,Other NST 2007 goods,257
+Vehicle Kilometres,2025Q3,All NST 2007 goods,551
+Vehicle Kilometres,2025Q3,Products of agriculture forestry and fishing,25
+Vehicle Kilometres,2025Q3,Coal and natural gas,1
+Vehicle Kilometres,2025Q3,"Quarry products, metal ores and peat",22
+Vehicle Kilometres,2025Q3,Foodstuffs,97
+Vehicle Kilometres,2025Q3,Textiles and leather,3
+Vehicle Kilometres,2025Q3,"Wood, pulp and paper",14
+Vehicle Kilometres,2025Q3,Coke and refined petroleum products,16
+Vehicle Kilometres,2025Q3,Chemicals and plastics,20
+Vehicle Kilometres,2025Q3,Other non-metallic mineral products,35
+Vehicle Kilometres,2025Q3,Metal products (except machinery and equipment),5
+Vehicle Kilometres,2025Q3,Machinery and equipment,20
+Vehicle Kilometres,2025Q3,Furniture and other manufactured goods,18
+Vehicle Kilometres,2025Q3,Secondary raw materials and waste,11
+Vehicle Kilometres,2025Q3,Other NST 2007 goods,262

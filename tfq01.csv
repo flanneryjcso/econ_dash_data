@@ -197,6 +197,9 @@ Tonne-Kilometre,2025Q1,Other,1194
 Tonne-Kilometre,2025Q2,All business activities,3885
 Tonne-Kilometre,2025Q2,Transport,2700
 Tonne-Kilometre,2025Q2,Other,1186
+Tonne-Kilometre,2025Q3,All business activities,3808
+Tonne-Kilometre,2025Q3,Transport,2535
+Tonne-Kilometre,2025Q3,Other,1273
 Tonnes Carried,2009Q1,All business activities,42164
 Tonnes Carried,2009Q1,Transport,19878
 Tonnes Carried,2009Q1,Other,22285
@@ -395,6 +398,9 @@ Tonnes Carried,2025Q1,Other,19561
 Tonnes Carried,2025Q2,All business activities,43599
 Tonnes Carried,2025Q2,Transport,23610
 Tonnes Carried,2025Q2,Other,19989
+Tonnes Carried,2025Q3,All business activities,43541
+Tonnes Carried,2025Q3,Transport,21191
+Tonnes Carried,2025Q3,Other,22349
 Laden Journeys,2009Q1,All business activities,3618
 Laden Journeys,2009Q1,Transport,1115
 Laden Journeys,2009Q1,Other,2503
@@ -593,6 +599,9 @@ Laden Journeys,2025Q1,Other,2534
 Laden Journeys,2025Q2,All business activities,4187
 Laden Journeys,2025Q2,Transport,1656
 Laden Journeys,2025Q2,Other,2531
+Laden Journeys,2025Q3,All business activities,4136
+Laden Journeys,2025Q3,Transport,1327
+Laden Journeys,2025Q3,Other,2809
 All Vehicle Kilometres,2009Q1,All business activities,433
 All Vehicle Kilometres,2009Q1,Transport,179
 All Vehicle Kilometres,2009Q1,Other,255
@@ -791,3 +800,6 @@ All Vehicle Kilometres,2025Q1,Other,255
 All Vehicle Kilometres,2025Q2,All business activities,562
 All Vehicle Kilometres,2025Q2,Transport,264
 All Vehicle Kilometres,2025Q2,Other,298
+All Vehicle Kilometres,2025Q3,All business activities,551
+All Vehicle Kilometres,2025Q3,Transport,244
+All Vehicle Kilometres,2025Q3,Other,307
