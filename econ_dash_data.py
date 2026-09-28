@@ -57,7 +57,7 @@ for table, labels in pxstat_codes_dict.items():
             data.rename(columns = {'STATISTIC Label': 'Statistic', 'VALUE': 'value'}, inplace = True)
         data.columns = [col.replace(' ', '.') for col in data.columns]
         new_dict[table] = data
-        data.to_csv(f'/home/flanneryj/econ_dash/{table}.csv', index = False)
+        data.to_csv(f'/home/flanneryj/econ_dash_data/{table}.csv', index = False)
     except Exception as e:
         print(f"An error occured while processing table {table}: {e}")
 
@@ -99,7 +99,7 @@ for table, labels in new_dict.items():
 #with open('/home/flanneryj/econ_dash/econ_dash_dict.json', 'w') as json_file:
 #    json.dump(final_dict, json_file)
 
-with open('/home/flanneryj/econ_dash/econ_dash_dict.json', 'r') as json_file:
+with open('/home/flanneryj/econ_dash_data/econ_dash_dict.json', 'r') as json_file:
     old_dict = json.load(json_file)
 
 def compare_dictionaries(dict1, dict2):
@@ -170,7 +170,7 @@ if check_dicts[0] == False:
 #            df.to_csv(buffer, index = False)
 
 def git_push():
-    project_path = '/home/flanneryj/econ_dash'
+    project_path = '/home/flanneryj/econ_dash_data'
     os.chdir(project_path)
 
     try:

@@ -200,6 +200,12 @@ Tonne-Kilometre,2025Q2,Other,1186
 Tonne-Kilometre,2025Q3,All business activities,3808
 Tonne-Kilometre,2025Q3,Transport,2535
 Tonne-Kilometre,2025Q3,Other,1273
+Tonne-Kilometre,2025Q4,All business activities,3390
+Tonne-Kilometre,2025Q4,Transport,2340
+Tonne-Kilometre,2025Q4,Other,1051
+Tonne-Kilometre,2026Q1,All business activities,3811
+Tonne-Kilometre,2026Q1,Transport,2736
+Tonne-Kilometre,2026Q1,Other,1075
 Tonnes Carried,2009Q1,All business activities,42164
 Tonnes Carried,2009Q1,Transport,19878
 Tonnes Carried,2009Q1,Other,22285
@@ -401,6 +407,12 @@ Tonnes Carried,2025Q2,Other,19989
 Tonnes Carried,2025Q3,All business activities,43541
 Tonnes Carried,2025Q3,Transport,21191
 Tonnes Carried,2025Q3,Other,22349
+Tonnes Carried,2025Q4,All business activities,37313
+Tonnes Carried,2025Q4,Transport,19340
+Tonnes Carried,2025Q4,Other,17973
+Tonnes Carried,2026Q1,All business activities,40786
+Tonnes Carried,2026Q1,Transport,23073
+Tonnes Carried,2026Q1,Other,17713
 Laden Journeys,2009Q1,All business activities,3618
 Laden Journeys,2009Q1,Transport,1115
 Laden Journeys,2009Q1,Other,2503
@@ -602,6 +614,12 @@ Laden Journeys,2025Q2,Other,2531
 Laden Journeys,2025Q3,All business activities,4136
 Laden Journeys,2025Q3,Transport,1327
 Laden Journeys,2025Q3,Other,2809
+Laden Journeys,2025Q4,All business activities,3726
+Laden Journeys,2025Q4,Transport,1255
+Laden Journeys,2025Q4,Other,2471
+Laden Journeys,2026Q1,All business activities,3798
+Laden Journeys,2026Q1,Transport,1502
+Laden Journeys,2026Q1,Other,2296
 All Vehicle Kilometres,2009Q1,All business activities,433
 All Vehicle Kilometres,2009Q1,Transport,179
 All Vehicle Kilometres,2009Q1,Other,255
@@ -803,3 +821,9 @@ All Vehicle Kilometres,2025Q2,Other,298
 All Vehicle Kilometres,2025Q3,All business activities,551
 All Vehicle Kilometres,2025Q3,Transport,244
 All Vehicle Kilometres,2025Q3,Other,307
+All Vehicle Kilometres,2025Q4,All business activities,456
+All Vehicle Kilometres,2025Q4,Transport,208
+All Vehicle Kilometres,2025Q4,Other,249
+All Vehicle Kilometres,2026Q1,All business activities,491
+All Vehicle Kilometres,2026Q1,Transport,253
+All Vehicle Kilometres,2026Q1,Other,238
